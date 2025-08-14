@@ -202,6 +202,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1569874403313845762",
+                "createdAt": "2025-08-04T19:20:12.301Z",
+                "updatedAt": "2025-08-14T07:54:15.170Z",
+                "type": "project",
+                "position": 384.0234375,
+                "name": "Migrate main laptop from Linux Mint/BSPWM to POP_OS",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-14T07:54:15.169Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797938070540",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1574635682666645278",
                 "createdAt": "2025-08-11T09:00:01.030Z",
                 "updatedAt": "2025-08-11T10:33:16.003Z",
@@ -337,11 +356,11 @@
             {
                 "id": "1576022197716125514",
                 "createdAt": "2025-08-13T06:54:46.504Z",
-                "updatedAt": "2025-08-13T17:58:40.389Z",
+                "updatedAt": "2025-08-14T08:02:30.584Z",
                 "type": "project",
                 "position": 5056.2314453125,
-                "name": "Plan hosting-to-homelab migration strategy",
-                "description": "**Decision:** **Move to Project Ideas** - too undefined until you do the inventory first\n\nThis feels like it should move to Project Ideas because:\n\n* You don't know the scope yet\n\n* It requires research/inventory first\n\n* It's more strategic planning than concrete action\n\n**Alternative approach:** If you want to keep something in Active Projects, maybe just: **\"Inventory current hosting services\"** as a single, concrete first step?\n\nWhat do you think - move the whole thing to Project Ideas, or keep just the inventory step in Active Projects?",
+                "name": "Inventory current hosting services and dependencies",
+                "description": null,
                 "dueDate": null,
                 "stopwatch": null,
                 "commentsTotal": 0,
@@ -365,25 +384,6 @@
                 "stopwatch": null,
                 "commentsTotal": 0,
                 "listChangedAt": "2025-08-03T18:32:52.234Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797778686987",
-                "creatorUserId": "1569125757572088833",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
-                "id": "1569125822659298570",
-                "createdAt": "2025-08-03T18:32:54.534Z",
-                "updatedAt": "2025-08-03T19:35:46.009Z",
-                "type": "project",
-                "position": 6144.28125,
-                "name": "Lokaal testen, na commit live",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-03T18:32:54.533Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797778686987",
                 "creatorUserId": "1569125757572088833",
@@ -634,6 +634,25 @@
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
                 "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1569125821107406075",
+                "createdAt": "2025-08-03T18:32:54.350Z",
+                "updatedAt": "2025-08-14T07:38:45.239Z",
+                "type": "project",
+                "position": 32768,
+                "name": "Onderzoek: Make, N8N, Lindy",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-14T07:38:45.238Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125798089065485",
+                "creatorUserId": "1569125757572088833",
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
@@ -1209,31 +1228,12 @@
                 "isSubscribed": false
             },
             {
-                "id": "1569125821107406075",
-                "createdAt": "2025-08-03T18:32:54.350Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 65615,
-                "name": "Onderzoek: Make, N8N, Lindy",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-03T18:32:54.349Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797778686987",
-                "creatorUserId": "1569125757572088833",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1569125821669442817",
                 "createdAt": "2025-08-03T18:32:54.416Z",
-                "updatedAt": null,
+                "updatedAt": "2025-08-14T07:41:14.488Z",
                 "type": "project",
                 "position": 65617,
-                "name": "Kunnen we de cache beinvloeden zodat ik niet elke keer de pagina hoef te verversen naar een wijziging?",
+                "name": "Fix Grav cache issue during development",
                 "description": null,
                 "dueDate": null,
                 "stopwatch": null,
@@ -1287,11 +1287,11 @@
             {
                 "id": "1569125827801515329",
                 "createdAt": "2025-08-03T18:32:55.147Z",
-                "updatedAt": null,
+                "updatedAt": "2025-08-14T07:45:05.493Z",
                 "type": "project",
                 "position": 65639,
-                "name": "Power tweaks",
-                "description": "<p><strong>Ideal configuration for top-tier energy efficiency:</strong></p><ol><li><p><strong>Kernel</strong>: 6.15+</p></li><li><p><strong>ACPI</strong>: support for S0ix and modern sleep</p></li><li><p><strong>Utilities</strong>:</p><ul><li><p><code>sudo apt install tlp powertop</code> (or equivalent)</p></li><li><p>Enable TLP: <code>sudo systemctl enable tlp</code> + configure charge thresholds</p></li><li><p>Use PowerTop for tuning constants and gathering suggestions</p></li></ul></li><li><p><strong>Graphics</strong>:</p><ul><li><p>Intel: make sure DG2 idle modes are enabled</p></li><li><p>AMD: set DPM to “low” when unplugged</p></li></ul></li><li><p><strong>Additional tweaks</strong>: USB suspend, spin-downs, light desktop environments, adaptive brightness</p></li></ol><p>Follow this stack and you’ll consistently hit <strong>8–12 hour unplugged times</strong> on typical ultrabooks.</p>",
+                "name": "Implement laptop power optimization tweaks and add to setup script",
+                "description": "**Ideal configuration for top-tier energy efficiency:**\n\n1. **Kernel**: 6.15\\+\n\n2. **ACPI**: support for S0ix and modern sleep\n\n3. **Utilities**:\n\n   * `sudo apt install tlp powertop` (or equivalent)\n\n   * Enable TLP: `sudo systemctl enable tlp` \\+ configure charge thresholds\n\n   * Use PowerTop for tuning constants and gathering suggestions\n\n4. **Graphics**:\n\n   * Intel: make sure DG2 idle modes are enabled\n\n   * AMD: set DPM to \"low\" when unplugged\n\n5. **Additional tweaks**: USB suspend, spin-downs, light desktop environments, adaptive brightness\n\nFollow this stack and you'll consistently hit **8–12 hour unplugged times** on typical ultrabooks.",
                 "dueDate": null,
                 "stopwatch": null,
                 "commentsTotal": 0,
@@ -1344,10 +1344,10 @@
             {
                 "id": "1569125829756061015",
                 "createdAt": "2025-08-03T18:32:55.380Z",
-                "updatedAt": null,
+                "updatedAt": "2025-08-14T07:47:09.970Z",
                 "type": "project",
                 "position": 65647,
-                "name": "Verzameling Alfabet liedjes",
+                "name": "Create multilingual alphabet songs collection for website",
                 "description": null,
                 "dueDate": null,
                 "stopwatch": null,
@@ -1893,25 +1893,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1569874403313845762",
-                "createdAt": "2025-08-04T19:20:12.301Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 131183,
-                "name": "Migrate to POP_OS",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-04T19:20:12.300Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797778686987",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1570445536396314127",
                 "createdAt": "2025-08-05T14:14:56.670Z",
                 "updatedAt": null,
@@ -1933,10 +1914,10 @@
             {
                 "id": "1576203611061356376",
                 "createdAt": "2025-08-13T12:55:12.660Z",
-                "updatedAt": "2025-08-13T12:57:41.299Z",
+                "updatedAt": "2025-08-14T07:57:37.010Z",
                 "type": "project",
                 "position": 196719,
-                "name": "Website (1): deploy webserver in homelab",
+                "name": "Deploy blog webserver using Jansible framework",
                 "description": null,
                 "dueDate": null,
                 "stopwatch": null,
@@ -1971,10 +1952,10 @@
             {
                 "id": "1576204002020820828",
                 "createdAt": "2025-08-13T12:55:59.265Z",
-                "updatedAt": "2025-08-13T12:57:53.097Z",
+                "updatedAt": "2025-08-14T07:57:54.841Z",
                 "type": "project",
                 "position": 262255,
-                "name": "Website (2): Develop a strategy for local development before deploying",
+                "name": "Set up local development workflow and deployment pipeline",
                 "description": null,
                 "dueDate": null,
                 "stopwatch": null,
@@ -2007,25 +1988,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1576204556348426080",
-                "createdAt": "2025-08-13T12:57:05.346Z",
-                "updatedAt": "2025-08-13T12:58:00.234Z",
-                "type": "project",
-                "position": 327791,
-                "name": "Website (3): Write script or gitlab pipeline for publishing",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-13T12:57:05.346Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797778686987",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1572541944024794818",
                 "createdAt": "2025-08-08T11:40:07.933Z",
                 "updatedAt": null,
@@ -2039,25 +2001,6 @@
                 "listChangedAt": "2025-08-08T11:40:07.932Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
-                "id": "1576205414301697891",
-                "createdAt": "2025-08-13T12:58:47.620Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 393327,
-                "name": "Migrate Jansible project from Claude to ChatGPT",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-13T12:58:47.619Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797778686987",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
@@ -2083,6 +2026,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1576777174793324450",
+                "createdAt": "2025-08-14T07:54:46.784Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 458863,
+                "name": "Test Ansible playbooks for configuration on spare laptop",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-14T07:54:46.784Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1572542536268908232",
                 "createdAt": "2025-08-08T11:41:18.535Z",
                 "updatedAt": null,
@@ -2094,6 +2056,25 @@
                 "stopwatch": null,
                 "commentsTotal": 0,
                 "listChangedAt": "2025-08-08T11:41:18.534Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797938070540",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1576781212616230825",
+                "createdAt": "2025-08-14T08:02:48.131Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 585731.75,
+                "name": "Plan hosting-to-homelab migration strategy",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-14T08:02:48.130Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
                 "creatorUserId": "1569579385273451995",
@@ -2427,13 +2408,6 @@
                 "labelId": "1569125798894371858"
             },
             {
-                "id": "1569125821828826371",
-                "createdAt": "2025-08-03T18:32:54.435Z",
-                "updatedAt": null,
-                "cardId": "1569125821669442817",
-                "labelId": "1569125798743376913"
-            },
-            {
                 "id": "1569125822130816262",
                 "createdAt": "2025-08-03T18:32:54.472Z",
                 "updatedAt": null,
@@ -2446,13 +2420,6 @@
                 "updatedAt": null,
                 "cardId": "1569125822281811207",
                 "labelId": "1569125798600770576"
-            },
-            {
-                "id": "1569125822801904908",
-                "createdAt": "2025-08-03T18:32:54.552Z",
-                "updatedAt": null,
-                "cardId": "1569125822659298570",
-                "labelId": "1569125798743376913"
             },
             {
                 "id": "1569125823598822676",
@@ -2637,20 +2604,6 @@
                 "labelId": "1569125798743376913"
             },
             {
-                "id": "1576204141657589598",
-                "createdAt": "2025-08-13T12:56:15.914Z",
-                "updatedAt": null,
-                "cardId": "1576204002020820828",
-                "labelId": "1569125798743376913"
-            },
-            {
-                "id": "1576204605950265186",
-                "createdAt": "2025-08-13T12:57:11.261Z",
-                "updatedAt": null,
-                "cardId": "1576204556348426080",
-                "labelId": "1569125798743376913"
-            },
-            {
                 "id": "1576395359339415427",
                 "createdAt": "2025-08-13T19:16:10.836Z",
                 "updatedAt": null,
@@ -2677,6 +2630,41 @@
                 "updatedAt": null,
                 "cardId": "1569125802518250547",
                 "labelId": "1576394506570303362"
+            },
+            {
+                "id": "1576770375499384726",
+                "createdAt": "2025-08-14T07:41:16.246Z",
+                "updatedAt": null,
+                "cardId": "1569125821669442817",
+                "labelId": "1576394506570303362"
+            },
+            {
+                "id": "1576777220687398820",
+                "createdAt": "2025-08-14T07:54:52.257Z",
+                "updatedAt": null,
+                "cardId": "1576777174793324450",
+                "labelId": "1569125798743376913"
+            },
+            {
+                "id": "1576778776732239781",
+                "createdAt": "2025-08-14T07:57:57.751Z",
+                "updatedAt": null,
+                "cardId": "1576204002020820828",
+                "labelId": "1576394506570303362"
+            },
+            {
+                "id": "1576778981682710438",
+                "createdAt": "2025-08-14T07:58:22.183Z",
+                "updatedAt": null,
+                "cardId": "1576203611061356376",
+                "labelId": "1576394506570303362"
+            },
+            {
+                "id": "1576781254450218923",
+                "createdAt": "2025-08-14T08:02:53.120Z",
+                "updatedAt": null,
+                "cardId": "1576781212616230825",
+                "labelId": "1569125798743376913"
             }
         ],
         "taskLists": [
@@ -2742,6 +2730,24 @@
                 "name": "Task List",
                 "showOnFrontOfCard": true,
                 "cardId": "1569125826828436790"
+            },
+            {
+                "id": "1576773526252160919",
+                "createdAt": "2025-08-14T07:47:31.845Z",
+                "updatedAt": null,
+                "position": 65536,
+                "name": "Task List",
+                "showOnFrontOfCard": true,
+                "cardId": "1569125829756061015"
+            },
+            {
+                "id": "1576776063990630300",
+                "createdAt": "2025-08-14T07:52:34.367Z",
+                "updatedAt": null,
+                "position": 65536,
+                "name": "Task List",
+                "showOnFrontOfCard": true,
+                "cardId": "1569874403313845762"
             }
         ],
         "tasks": [
@@ -2836,6 +2842,26 @@
                 "assigneeUserId": null
             },
             {
+                "id": "1576773612990367640",
+                "createdAt": "2025-08-14T07:47:42.185Z",
+                "updatedAt": null,
+                "position": 65536,
+                "name": "Research alphabet songs in different languages",
+                "isCompleted": false,
+                "taskListId": "1576773526252160919",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1576776090196641693",
+                "createdAt": "2025-08-14T07:52:37.492Z",
+                "updatedAt": null,
+                "position": 65536,
+                "name": "Backup important data and configs",
+                "isCompleted": false,
+                "taskListId": "1576776063990630300",
+                "assigneeUserId": null
+            },
+            {
                 "id": "1576308080067479399",
                 "createdAt": "2025-08-13T16:22:46.337Z",
                 "updatedAt": null,
@@ -2906,6 +2932,26 @@
                 "assigneeUserId": null
             },
             {
+                "id": "1576773696708675481",
+                "createdAt": "2025-08-14T07:47:52.166Z",
+                "updatedAt": null,
+                "position": 131072,
+                "name": "Collect/organize songs by language",
+                "isCompleted": false,
+                "taskListId": "1576773526252160919",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1576776188209137566",
+                "createdAt": "2025-08-14T07:52:49.174Z",
+                "updatedAt": null,
+                "position": 131072,
+                "name": "Document current setup/customizations to preserve",
+                "isCompleted": false,
+                "taskListId": "1576776063990630300",
+                "assigneeUserId": null
+            },
+            {
                 "id": "1576309994188441451",
                 "createdAt": "2025-08-13T16:26:34.519Z",
                 "updatedAt": null,
@@ -2946,6 +2992,26 @@
                 "assigneeUserId": null
             },
             {
+                "id": "1576773763247114138",
+                "createdAt": "2025-08-14T07:48:00.098Z",
+                "updatedAt": null,
+                "position": 196608,
+                "name": "Create dedicated website page",
+                "isCompleted": false,
+                "taskListId": "1576773526252160919",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1576776302948517791",
+                "createdAt": "2025-08-14T07:53:02.853Z",
+                "updatedAt": null,
+                "position": 196608,
+                "name": "Install POP_OS on main laptop",
+                "isCompleted": false,
+                "taskListId": "1576776063990630300",
+                "assigneeUserId": null
+            },
+            {
                 "id": "1576310056549353324",
                 "createdAt": "2025-08-13T16:26:41.952Z",
                 "updatedAt": null,
@@ -2983,6 +3049,26 @@
                 "name": "Switch over when ready",
                 "isCompleted": false,
                 "taskListId": "1576396775504217988",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1576773833753364379",
+                "createdAt": "2025-08-14T07:48:08.504Z",
+                "updatedAt": null,
+                "position": 262144,
+                "name": "Maybe write blog post about the collection",
+                "isCompleted": false,
+                "taskListId": "1576773526252160919",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1576776752200419232",
+                "createdAt": "2025-08-14T07:53:56.408Z",
+                "updatedAt": null,
+                "position": 262144,
+                "name": "Restore data and essential configs using the instructions from my Jansible project",
+                "isCompleted": false,
+                "taskListId": "1576776063990630300",
                 "assigneeUserId": null
             }
         ],
