@@ -1076,25 +1076,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1574847075168814895",
-                "createdAt": "2025-08-11T16:00:00.980Z",
-                "updatedAt": "2025-08-14T09:48:20.958Z",
-                "type": "project",
-                "position": 65536,
-                "name": "Build 3D printed egg cracker",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-14T09:48:20.957Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1569125818657932512",
                 "createdAt": "2025-08-03T18:32:54.057Z",
                 "updatedAt": "2025-08-03T19:36:29.961Z",
@@ -2669,15 +2650,6 @@
         ],
         "taskLists": [
             {
-                "id": "1576307853373736805",
-                "createdAt": "2025-08-13T16:22:19.312Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Task List",
-                "showOnFrontOfCard": true,
-                "cardId": "1574847075168814895"
-            },
-            {
                 "id": "1576309565723510632",
                 "createdAt": "2025-08-13T16:25:43.440Z",
                 "updatedAt": null,
@@ -2752,16 +2724,6 @@
         ],
         "tasks": [
             {
-                "id": "1576351980094228341",
-                "createdAt": "2025-08-13T17:49:59.628Z",
-                "updatedAt": "2025-08-13T17:50:04.398Z",
-                "position": 32768,
-                "name": "Print all parts",
-                "isCompleted": true,
-                "taskListId": "1576307853373736805",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576354020816062331",
                 "createdAt": "2025-08-13T17:54:02.901Z",
                 "updatedAt": "2025-08-13T17:54:05.768Z",
@@ -2769,16 +2731,6 @@
                 "name": "Check current storage usage in Google Drive/Photos",
                 "isCompleted": false,
                 "taskListId": "1576353643102209912",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1576307996575663974",
-                "createdAt": "2025-08-13T16:22:36.382Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Buy bolts and nuts",
-                "isCompleted": false,
-                "taskListId": "1576307853373736805",
                 "assigneeUserId": null
             },
             {
@@ -2859,16 +2811,6 @@
                 "name": "Backup important data and configs",
                 "isCompleted": false,
                 "taskListId": "1576776063990630300",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1576308080067479399",
-                "createdAt": "2025-08-13T16:22:46.337Z",
-                "updatedAt": null,
-                "position": 131072,
-                "name": "Assemble egg cracker",
-                "isCompleted": false,
-                "taskListId": "1576307853373736805",
                 "assigneeUserId": null
             },
             {
