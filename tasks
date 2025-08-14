@@ -1912,25 +1912,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1576023254462629708",
-                "createdAt": "2025-08-13T06:56:52.478Z",
-                "updatedAt": "2025-08-14T09:48:30.530Z",
-                "type": "project",
-                "position": 131072,
-                "name": "Update WordPress service names on status page",
-                "description": "Wordpress Main: jokegoudriaan.nl\n\nWordpress Kledingruil: kledingruil.jokegoudriaan.nl",
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-14T09:48:30.528Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1570445536396314127",
                 "createdAt": "2025-08-05T14:14:56.670Z",
                 "updatedAt": null,
@@ -2659,15 +2640,6 @@
                 "cardId": "1574635682666645278"
             },
             {
-                "id": "1576312782603683693",
-                "createdAt": "2025-08-13T16:32:06.922Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Task List",
-                "showOnFrontOfCard": true,
-                "cardId": "1576023254462629708"
-            },
-            {
                 "id": "1576351396490381168",
                 "createdAt": "2025-08-13T17:48:50.056Z",
                 "updatedAt": null,
@@ -2744,16 +2716,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1576312905077360494",
-                "createdAt": "2025-08-13T16:32:21.522Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Change \"WordPress Main\" to \"Website Joke\"",
-                "isCompleted": false,
-                "taskListId": "1576312782603683693",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576351517252781937",
                 "createdAt": "2025-08-13T17:49:04.452Z",
                 "updatedAt": null,
@@ -2821,16 +2783,6 @@
                 "name": "Research pricing",
                 "isCompleted": false,
                 "taskListId": "1576309565723510632",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1576313003509286767",
-                "createdAt": "2025-08-13T16:32:33.256Z",
-                "updatedAt": null,
-                "position": 131072,
-                "name": "Change \"WordPress Kledingruil\" to \"Website Kledingruil\"",
-                "isCompleted": false,
-                "taskListId": "1576312782603683693",
                 "assigneeUserId": null
             },
             {
