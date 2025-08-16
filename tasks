@@ -677,6 +677,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1578350156779096011",
+                "createdAt": "2025-08-16T12:00:00.849Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 2049,
+                "name": "Subject: [Braintoss] NN 65.65",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-16T12:00:00.848Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1569125805697533011",
                 "createdAt": "2025-08-03T18:32:52.512Z",
                 "updatedAt": "2025-08-13T19:45:07.602Z",
