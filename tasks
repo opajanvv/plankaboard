@@ -696,6 +696,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1578199161356945353",
+                "createdAt": "2025-08-16T07:00:00.792Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 4097,
+                "name": "Subject: [Braintoss] Proxmox upgraden 8 to 9",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-16T07:00:00.791Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1575269859242018611",
                 "createdAt": "2025-08-12T06:00:00.769Z",
                 "updatedAt": "2025-08-12T13:15:33.236Z",
