@@ -192,6 +192,25 @@
         ],
         "cards": [
             {
+                "id": "1579346723157837805",
+                "createdAt": "2025-08-17T21:00:00.819Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 1,
+                "name": "Subject: [Braintoss] Embed Spotify in Home Assistant",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-17T21:00:00.818Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1577715977368373189",
                 "createdAt": "2025-08-15T15:00:00.773Z",
                 "updatedAt": "2025-08-17T14:38:59.344Z",
