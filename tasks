@@ -1161,25 +1161,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1578893738082568143",
-                "createdAt": "2025-08-17T06:00:00.790Z",
-                "updatedAt": "2025-08-18T14:53:04.524Z",
-                "type": "project",
-                "position": 65536,
-                "name": "Watch video about infill in 3d prints: https://www.youtube.com/watch?v=3hi2_9-YCbM",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-18T14:53:04.523Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1569125818657932512",
                 "createdAt": "2025-08-03T18:32:54.057Z",
                 "updatedAt": "2025-08-03T19:36:29.961Z",
@@ -2750,13 +2731,6 @@
                 "updatedAt": null,
                 "cardId": "1577444187299645379",
                 "labelId": "1569125798743376913"
-            },
-            {
-                "id": "1579153332222560223",
-                "createdAt": "2025-08-17T14:35:46.824Z",
-                "updatedAt": null,
-                "cardId": "1578893738082568143",
-                "labelId": "1569125799162807316"
             },
             {
                 "id": "1579154091685185507",
