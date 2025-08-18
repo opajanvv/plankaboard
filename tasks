@@ -230,25 +230,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1577444187299645379",
-                "createdAt": "2025-08-15T06:00:00.872Z",
-                "updatedAt": "2025-08-17T14:27:56.201Z",
-                "type": "project",
-                "position": 136.0062255859375,
-                "name": "Security Update Plex",
-                "description": "#|\n||\n\n**Update Your Plex Media Server**\n\n||\n||\n\nDear Plex user,\n\n||\n||\n\nWe recently received a report via our bug bounty program that there was a potential security issue affecting Plex Media Server versions 1.41.7.x to 1.42.0.x. Thanks to that user, we were able to address the issue, release an updated version of the server, and continue to improve our security and defenses.\n\n||\n||\n\nYou’re receiving this notice because our information indicates that a Plex Media Server owned by your Plex account is running an older version of the server. We strongly recommend that everyone update their Plex Media Server to the most recent version as soon as possible, if you have not already done so.\n\n||\n||\n\nThe new version (1.42.1.10060 or later) is now available to update through your regular server management page or you can download the package from our downloads page ([https://www.plex.tv/media-server-downloads/](https://links.plex.tv/s/c/JnWhR07R4JrraY_YYuybjpm2v3PY3NOkZexfM9YUu5HsSc4ShOYqcMdJ_yRfJ6sHJxyFkvwKa_Kk6H_Av8HmAoPgTewTcTFjVHrw28eyy9JSh8zuFvfzcMyz_SQ_6SJq0rNbBN89PMofesa692KkxFHkf8DuHyOO7OiKkNl-h2rP34cyJspq_Oes28h2Z9t6rQFsSOxQBRrU8UD3qrGpjhIQ9mnY-yKr9X2EAiww7ulbOdFcKnIhVzBtD-lFsEucrmTuA9XDTXPYAInpDCN34pyh1Jw_GJa0vzoT27wIwcGV46usWXY_Sd2CQCUYFtiFbGvkubPU4_grcW-k6mPNYNaNOZmiwAjvAGSB0zYjI37wi-2XRcc-OrV6OgaD7XlytqrpLuc6y0sQ6jo/BVVyaoJQr2ySKwxT_8cza8e2j3qJDfnS/11)).\n\n||\n||\n\nThank you,\n\n||\n||\n\nThe Plex Team\n\n||\n|#",
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-17T14:27:56.200Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797778686987",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1578199161356945353",
                 "createdAt": "2025-08-16T07:00:00.792Z",
                 "updatedAt": "2025-08-17T14:39:14.602Z",
@@ -1161,6 +1142,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1577444187299645379",
+                "createdAt": "2025-08-15T06:00:00.872Z",
+                "updatedAt": "2025-08-18T19:47:39.203Z",
+                "type": "project",
+                "position": 65536,
+                "name": "Security Update Plex",
+                "description": "#|\n||\n\n**Update Your Plex Media Server**\n\n||\n||\n\nDear Plex user,\n\n||\n||\n\nWe recently received a report via our bug bounty program that there was a potential security issue affecting Plex Media Server versions 1.41.7.x to 1.42.0.x. Thanks to that user, we were able to address the issue, release an updated version of the server, and continue to improve our security and defenses.\n\n||\n||\n\nYou’re receiving this notice because our information indicates that a Plex Media Server owned by your Plex account is running an older version of the server. We strongly recommend that everyone update their Plex Media Server to the most recent version as soon as possible, if you have not already done so.\n\n||\n||\n\nThe new version (1.42.1.10060 or later) is now available to update through your regular server management page or you can download the package from our downloads page ([https://www.plex.tv/media-server-downloads/](https://links.plex.tv/s/c/JnWhR07R4JrraY_YYuybjpm2v3PY3NOkZexfM9YUu5HsSc4ShOYqcMdJ_yRfJ6sHJxyFkvwKa_Kk6H_Av8HmAoPgTewTcTFjVHrw28eyy9JSh8zuFvfzcMyz_SQ_6SJq0rNbBN89PMofesa692KkxFHkf8DuHyOO7OiKkNl-h2rP34cyJspq_Oes28h2Z9t6rQFsSOxQBRrU8UD3qrGpjhIQ9mnY-yKr9X2EAiww7ulbOdFcKnIhVzBtD-lFsEucrmTuA9XDTXPYAInpDCN34pyh1Jw_GJa0vzoT27wIwcGV46usWXY_Sd2CQCUYFtiFbGvkubPU4_grcW-k6mPNYNaNOZmiwAjvAGSB0zYjI37wi-2XRcc-OrV6OgaD7XlytqrpLuc6y0sQ6jo/BVVyaoJQr2ySKwxT_8cza8e2j3qJDfnS/11)).\n\n||\n||\n\nThank you,\n\n||\n||\n\nThe Plex Team\n\n||\n|#",
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-18T19:47:39.202Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797468308489",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1569125818657932512",
                 "createdAt": "2025-08-03T18:32:54.057Z",
                 "updatedAt": "2025-08-03T19:36:29.961Z",
@@ -1460,6 +1460,25 @@
                 "boardId": "1569125797208261637",
                 "listId": "1569125798089065485",
                 "creatorUserId": "1569125757572088833",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1580002358128018433",
+                "createdAt": "2025-08-18T18:42:38.599Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 67392.0849609375,
+                "name": "Install Immich Photo management tool in Homelab, then cancel Google One",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-18T18:42:38.598Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
+                "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
@@ -1992,25 +2011,6 @@
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
                 "creatorUserId": "1569125757572088833",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
-                "id": "1576008192238815048",
-                "createdAt": "2025-08-13T06:26:56.921Z",
-                "updatedAt": "2025-08-18T14:53:15.382Z",
-                "type": "project",
-                "position": 131072,
-                "name": "Evaluate Google One subscription usage and cancel if not needed",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-18T14:53:15.381Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
@@ -2752,6 +2752,13 @@
                 "updatedAt": null,
                 "cardId": "1578199161356945353",
                 "labelId": "1569125798743376913"
+            },
+            {
+                "id": "1580002415833252867",
+                "createdAt": "2025-08-18T18:42:45.479Z",
+                "updatedAt": null,
+                "cardId": "1580002358128018433",
+                "labelId": "1569125798743376913"
             }
         ],
         "taskLists": [
@@ -2772,15 +2779,6 @@
                 "name": "Task List",
                 "showOnFrontOfCard": true,
                 "cardId": "1574635682649868061"
-            },
-            {
-                "id": "1576353643102209912",
-                "createdAt": "2025-08-13T17:53:17.873Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Task List",
-                "showOnFrontOfCard": true,
-                "cardId": "1576008192238815048"
             },
             {
                 "id": "1576358607690139516",
@@ -2821,16 +2819,6 @@
         ],
         "tasks": [
             {
-                "id": "1576354020816062331",
-                "createdAt": "2025-08-13T17:54:02.901Z",
-                "updatedAt": "2025-08-13T17:54:05.768Z",
-                "position": 32768,
-                "name": "Check current storage usage in Google Drive/Photos",
-                "isCompleted": false,
-                "taskListId": "1576353643102209912",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576309643125196649",
                 "createdAt": "2025-08-13T16:25:52.668Z",
                 "updatedAt": null,
@@ -2848,16 +2836,6 @@
                 "name": "Design under-desk bins with slider mechanism",
                 "isCompleted": false,
                 "taskListId": "1576351396490381168",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1576353862111987577",
-                "createdAt": "2025-08-13T17:53:43.980Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Check free tier limits vs. current usage",
-                "isCompleted": false,
-                "taskListId": "1576353643102209912",
                 "assigneeUserId": null
             },
             {
@@ -2918,16 +2896,6 @@
                 "name": "Print prototype/test fit",
                 "isCompleted": false,
                 "taskListId": "1576351396490381168",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1576353946778208122",
-                "createdAt": "2025-08-13T17:53:54.073Z",
-                "updatedAt": null,
-                "position": 131072,
-                "name": "Cancel subscription if under free tier limits",
-                "isCompleted": false,
-                "taskListId": "1576353643102209912",
                 "assigneeUserId": null
             },
             {
