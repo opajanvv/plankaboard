@@ -38,9 +38,9 @@
             {
                 "id": "1569125798407832591",
                 "createdAt": "2025-08-03T18:32:51.643Z",
-                "updatedAt": null,
+                "updatedAt": "2025-08-20T09:39:13.489Z",
                 "position": 65536,
-                "name": "🛒 Buy",
+                "name": "🛒 Buy/Sell",
                 "color": "light-orange",
                 "boardId": "1569125797208261637"
             },
@@ -122,20 +122,20 @@
             {
                 "id": "1569125797468308489",
                 "createdAt": "2025-08-03T18:32:51.531Z",
-                "updatedAt": null,
+                "updatedAt": "2025-08-20T09:58:30.213Z",
                 "type": "active",
                 "position": 65536,
-                "name": "⚡ TODAY'S MIX",
+                "name": "⚡ TODAY",
                 "color": null,
                 "boardId": "1569125797208261637"
             },
             {
                 "id": "1569125797652857866",
                 "createdAt": "2025-08-03T18:32:51.553Z",
-                "updatedAt": null,
+                "updatedAt": "2025-08-20T09:58:55.970Z",
                 "type": "active",
                 "position": 131072,
-                "name": "🏠 HOUSEHOLD",
+                "name": "🏠 MUST DO",
                 "color": null,
                 "boardId": "1569125797208261637"
             },
@@ -205,6 +205,44 @@
                 "listChangedAt": "2025-08-20T06:00:00.904Z",
                 "boardId": "1569125797208261637",
                 "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1581178278037685282",
+                "createdAt": "2025-08-20T09:38:59.176Z",
+                "updatedAt": "2025-08-20T09:39:55.611Z",
+                "type": "project",
+                "position": 4.250194549560547,
+                "name": "Filament 3mm verkopen",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-20T09:38:59.174Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1581178662512755749",
+                "createdAt": "2025-08-20T09:39:45.008Z",
+                "updatedAt": "2025-08-20T09:39:51.043Z",
+                "type": "project",
+                "position": 8.500389099121094,
+                "name": "3D printer Sander: bruikbare onderdelen erf halen",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-20T09:39:45.007Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
@@ -2778,6 +2816,13 @@
                 "updatedAt": null,
                 "cardId": "1580754395434320924",
                 "labelId": "1569125798743376913"
+            },
+            {
+                "id": "1581178332421030948",
+                "createdAt": "2025-08-20T09:39:05.661Z",
+                "updatedAt": null,
+                "cardId": "1581178278037685282",
+                "labelId": "1569125798407832591"
             }
         ],
         "taskLists": [
