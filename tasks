@@ -192,6 +192,25 @@
         ],
         "cards": [
             {
+                "id": "1583272591785722983",
+                "createdAt": "2025-08-23T07:00:00.830Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 1,
+                "name": "Subject: [Braintoss] Sudoers no pwd  Leest privilege",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-23T07:00:00.829Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1581178278037685282",
                 "createdAt": "2025-08-20T09:38:59.176Z",
                 "updatedAt": "2025-08-22T13:14:58.777Z",
