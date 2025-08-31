@@ -2358,6 +2358,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1589221925001888931",
+                "createdAt": "2025-08-31T12:00:16.616Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 395072.0849609375,
+                "name": "Finetune and document firewall rules",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-08-31T12:00:16.615Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1572542152766916293",
                 "createdAt": "2025-08-08T11:40:32.818Z",
                 "updatedAt": null,
@@ -3161,6 +3180,13 @@
                 "updatedAt": null,
                 "cardId": "1583997367735026810",
                 "labelId": "1569125798600770576"
+            },
+            {
+                "id": "1589221971273450661",
+                "createdAt": "2025-08-31T12:00:22.134Z",
+                "updatedAt": null,
+                "cardId": "1589221925001888931",
+                "labelId": "1569125798743376913"
             }
         ],
         "taskLists": [
