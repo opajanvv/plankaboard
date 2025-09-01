@@ -2225,25 +2225,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1581178278037685282",
-                "createdAt": "2025-08-20T09:38:59.176Z",
-                "updatedAt": "2025-09-01T09:03:34.960Z",
-                "type": "project",
-                "position": 131072,
-                "name": "Filament 3mm verkopen",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-09-01T09:03:30.274Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1580731459436545044",
                 "createdAt": "2025-08-19T18:51:14.247Z",
                 "updatedAt": null,
@@ -3051,13 +3032,6 @@
                 "labelId": "1569125798743376913"
             },
             {
-                "id": "1581178332421030948",
-                "createdAt": "2025-08-20T09:39:05.661Z",
-                "updatedAt": null,
-                "cardId": "1581178278037685282",
-                "labelId": "1569125798407832591"
-            },
-            {
                 "id": "1581231849483535405",
                 "createdAt": "2025-08-20T11:25:25.390Z",
                 "updatedAt": null,
@@ -3210,15 +3184,6 @@
                 "name": "Migration",
                 "showOnFrontOfCard": true,
                 "cardId": "1582697954454537293"
-            },
-            {
-                "id": "1589857465598477518",
-                "createdAt": "2025-09-01T09:02:58.959Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Task List",
-                "showOnFrontOfCard": true,
-                "cardId": "1581178278037685282"
             }
         ],
         "tasks": [
@@ -3293,16 +3258,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1589857519293957327",
-                "createdAt": "2025-09-01T09:03:05.362Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Make photos",
-                "isCompleted": false,
-                "taskListId": "1589857465598477518",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576351655169886066",
                 "createdAt": "2025-08-13T17:49:20.892Z",
                 "updatedAt": null,
@@ -3363,16 +3318,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1589857596771140816",
-                "createdAt": "2025-09-01T09:03:14.597Z",
-                "updatedAt": null,
-                "position": 131072,
-                "name": "Decide on price",
-                "isCompleted": false,
-                "taskListId": "1589857465598477518",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576351742285580147",
                 "createdAt": "2025-08-13T17:49:31.278Z",
                 "updatedAt": null,
@@ -3430,16 +3375,6 @@
                 "name": "Plex",
                 "isCompleted": true,
                 "taskListId": "1589854027577820343",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1589857659618591953",
-                "createdAt": "2025-09-01T09:03:22.089Z",
-                "updatedAt": null,
-                "position": 196608,
-                "name": "Upload to Marktplaats",
-                "isCompleted": false,
-                "taskListId": "1589857465598477518",
                 "assigneeUserId": null
             },
             {
