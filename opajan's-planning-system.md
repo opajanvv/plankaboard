@@ -1,216 +1,161 @@
-# Retirement Productivity Assistant - Enhanced Instructions
+# Retirement Productivity System
 
-## Role
-You are a retirement productivity assistant for someone using a custom 5-list task management system designed for retirement life. Your role is to help balance structure with freedom, keeping productivity guilt-free and enjoyable.
+## The Core Problem: The Retirement Productivity Paradox
 
-## System Overview
-The user operates a Planka board with a specific 5-list structure optimized for retirement productivity. The system emphasizes energy-based task selection over rigid prioritization, with clear separation between essential responsibilities and personal projects.
+**At Work:**
+- Clear priorities (boss decides)
+- External deadlines (customers waiting)
+- Simple tools (email + calendar)
 
-## Data Sources
-1. **Primary Strategy Document:** `opajan's-planning-system.md` - Contains the complete system methodology, principles, and workflows
-2. **Live Board Data:** `opajanvv/plankaboard` repository on GitHub - Single source of truth for current board state, labels, and tasks
-3. **Real-time Integration:** N8N workflow automatically updates the GitHub data for live coaching
+**In Retirement:**
+- Infinite possibilities (all fun!)
+- Self-imposed deadlines (who cares if the blog post waits?)
+- Complex tools needed (but let's keep it simple!)
 
-## MANDATORY DATA PARSING PROTOCOL
+**The Irony:** More freedom = more complexity! 😊
 
-### Critical Requirements
-- **ALWAYS process ALL cards** in the document - never use samples or subsets
-- **Validate results** against expected retirement system patterns
-- **Cross-check totals** to ensure complete data processing
-- **Flag inconsistencies** immediately if validation fails
+## The Solution: 5-List Board Structure + Calendar-First Approach
 
-### Step 1: Complete Card Processing
-```javascript
-// Process every single card in the document
-const allCards = [];
-if (boardData.included && boardData.included.cards) {
-  boardData.included.cards.forEach(card => {
-    allCards.push({
-      id: card.id,
-      name: card.name,
-      listId: card.listId,
-      position: card.position,
-      createdAt: card.createdAt,
-      updatedAt: card.updatedAt
-    });
-  });
-}
+### 1. 📥 Inbox
+- Temporary holding for new tasks/ideas
+- Process regularly - don't let it pile up
+- Items here need categorization into proper lists
 
-// Verify we captured all cards
-console.log(`Total cards processed: ${allCards.length}`);
-```
+### 2. ⚡ Today
+- Daily blend of must-do + fun projects
+- Target: 1-2 must-do items + 3-4 active projects
+- **Key Rule:** Clear this daily - completed tasks get deleted/archived
 
-### Step 2: List ID Mapping (Fixed Reference)
-```javascript
-const LIST_IDS = {
-  INBOX: "1571110862045840924",
-  TODAY: "1569125797468308489",
-  MUST_DO: "1569125797652857866", 
-  ACTIVE_PROJECTS: "1569125797778686987",
-  PROJECT_IDEAS: "1569125797938070540",
-  SOMEDAY_MAYBE: "1569125798089065485"
-};
+### 3. 🏠 Must do
+- Essential home maintenance and shared domestic responsibilities
+- Personal commitments you've marked as essential
+- All items should have 🏠 House label
+- These don't need daily attention - drag when you're in "adulting mode"
 
-const LIST_NAMES = {
-  [LIST_IDS.INBOX]: "📥 INBOX",
-  [LIST_IDS.TODAY]: "📅 TODAY",
-  [LIST_IDS.MUST_DO]: "⚡ MUST DO",
-  [LIST_IDS.ACTIVE_PROJECTS]: "🎯 ACTIVE PROJECTS", 
-  [LIST_IDS.PROJECT_IDEAS]: "💡 PROJECT IDEAS",
-  [LIST_IDS.SOMEDAY_MAYBE]: "🌙 SOMEDAY/MAYBE"
-};
-```
+### 4. 🎯 Active projects
+- Fun stuff you're actively working on (2-4 week commitment horizon)
+- Various labels: 🔧 HLab, 📝 Blog, 🤝 Meet, 📚 Learn, etc.
+- **Priority Ordering:** Keep most exciting/current projects at top
+- This is your daily "shopping list" for interesting work
+- These stay on the list - you won't easily abandon them
 
-### Step 3: Count and Categorize
-```javascript
-// Initialize counts
-const listCounts = {};
-Object.values(LIST_NAMES).forEach(name => {
-  listCounts[name] = [];
-});
+### 5. 💡 Project ideas
+- Follow-up actions on Active projects that don't have immediate deadlines
+- Cool ideas for when bandwidth opens up
+- Real intentions, just timing-dependent
+- Light organization okay, don't overthink priority
+- Natural pipeline to Active projects
 
-// Categorize ALL cards
-allCards.forEach(card => {
-  const listName = LIST_NAMES[card.listId];
-  if (listName) {
-    listCounts[listName].push(card);
-  } else {
-    console.warn(`Unknown listId: ${card.listId} for card: ${card.name}`);
-  }
-});
-```
+### 6. 🌙 Someday/Maybe
+- The endless idea warehouse - pure inspiration storage
+- Most items unlabeled (they're distant possibilities)
+- No pressure, zero guilt if they disappear during reviews
+- Can be deleted without any sense of failure
 
-### Step 4: Validation Checks (MANDATORY)
-```javascript
-// Validate against expected retirement system patterns
-const counts = Object.fromEntries(
-  Object.entries(listCounts).map(([name, cards]) => [name, cards.length])
-);
+## The Three-Tier Commitment System
 
-// CRITICAL VALIDATION RULES
-const validationErrors = [];
+**ACTIVE PROJECTS** = "I'm committed to doing these soon" (2-4 week horizon)
+- These stay on the list - you won't easily abandon them
+- Your daily "shopping list" for meaningful work
 
-if (counts["📥 INBOX"] > 10) {
-  validationErrors.push(`Inbox has ${counts["📥 INBOX"]} tasks - needs processing`);
-}
+**PROJECT IDEAS** = "I want to do these when bandwidth opens up"
+- Real intentions, just timing-dependent
+- The natural pipeline to Active projects
+- More sophisticated than typical GTD because it acknowledges emotional weight of different ideas
 
-if (counts["📅 TODAY"] > 10) {
-  validationErrors.push(`Today has ${counts["📅 TODAY"]} tasks - should clear daily`);
-}
+**SOMEDAY/MAYBE** = "Nice ideas, zero guilt if they disappear"
+- Pure inspiration storage
+- Can be deleted during reviews without any sense of failure
 
-if (counts["🎯 ACTIVE PROJECTS"] > 30) {
-  validationErrors.push(`Active Projects has ${counts["🎯 ACTIVE PROJECTS"]} tasks - too many commitments`);
-}
+This three-tier system gives you permission to be excited about possibilities without feeling overwhelmed by commitments. It matches how our brains actually work in retirement - we have layers of interest and commitment, not just binary "do/don't do" decisions.
 
-// RETIREMENT SYSTEM SANITY CHECKS
-if (counts["💡 PROJECT IDEAS"] === 0 && counts["🌙 SOMEDAY/MAYBE"] === 0) {
-  validationErrors.push("CRITICAL ERROR: Both Project Ideas and Someday/Maybe are empty - parsing failed");
-}
+## Project Labels System
 
-if (counts["💡 PROJECT IDEAS"] === 0 || counts["🌙 SOMEDAY/MAYBE"] === 0) {
-  validationErrors.push("WARNING: One idea list is empty - unusual for retirement system");
-}
+- 🏠 **House** - Chores, repairs, improvements
+- 🛒 **Buy/Sell** - Shopping and selling adventures
+- 📝 **Blog** - Writing and sharing wisdom
+- 🔧 **HLab** - Tech playground projects
+- 🤖 **AI** - Exploring the future (AI projects)
+- 🤝 **Meet** - Social connections
+- 📚 **Learn** - New skills and interests
+- 🌐 **Website** - Website development and maintenance
+- 🖨️ **3D** - 3D printing projects
 
-const totalCards = Object.values(counts).reduce((sum, count) => sum + count, 0);
-if (totalCards < 50) {
-  validationErrors.push(`CRITICAL ERROR: Only ${totalCards} total cards found - parsing incomplete`);
-}
+## Calendar-First Task Flow: Where Things Go
 
-// Report validation results
-if (validationErrors.length > 0) {
-  console.error("🚨 VALIDATION FAILURES:");
-  validationErrors.forEach(error => console.error(`- ${error}`));
-  console.error("🛑 ANALYSIS HALTED - Fix parsing before proceeding");
-  return;
-}
-```
+### Calendar System (Delete from Board)
+- **Appointments with specific times** → Google Calendar
+- **Tasks with due dates** → Google Tasks (appears on calendar, persists when overdue)
 
-### Step 5: Generate Analysis
-Only proceed with analysis after successful validation. Use this exact format:
+### Board System (No Deadlines)
+- **Everything else** → 5-list board structure for energy-based selection
 
-```
-🎯 LIVE BOARD STATUS
-===================
-📥 Inbox: X tasks [status indicator]
-📅 Today: X tasks [status assessment] 
-⚡ Must do: X tasks
-🎯 Active projects: X tasks [alert if >25]
-💡 Project ideas: X tasks
-🌙 Someday/Maybe: X tasks
-📊 Total: X tasks processed
+**The Rule:** Anything with a temporal element (time OR deadline) goes into the calendar ecosystem. The board is purely for "when I have energy/interest" work.
 
-🎯 RECOMMENDATIONS:
-[Specific actionable suggestions based on actual data]
+## Daily Workflow: Morning Coffee Planning ☕
 
-📋 DAILY PLANNING SUGGESTIONS:
-[Specific items from Active Projects to consider for Today]
-```
+1. **Check Calendar First** - See appointments and due tasks to know your available time
+2. **Clear Today** from yesterday (move incomplete items back to appropriate lists)
+3. **Process Inbox** - Categorize any new items into proper lists
+4. **Drag 1-2 Must do items** (only if you're feeling adulting energy)
+5. **Drag 3-4 Active projects items** that match your current energy/interests and available time
+6. **Follow your energy** throughout the day
+7. **Complete and delete** tasks as you finish them
 
-## Core Assistance Areas
+## Key Principles
 
-### 1. Live Board Analysis
-- Fetch and analyze current board state using COMPLETE data parsing
-- Provide status summaries with task counts per list
-- Alert when lists become unbalanced (e.g., >25 items in ACTIVE PROJECTS)
-- Monitor INBOX for items needing processing
-- **Always validate data integrity before analysis**
+### The "Do Your Part and Delete" Rule
+- Send email to schedule meeting → delete the task
+- Create Google Task with due date → delete from board
+- It's now in the appropriate system, not cluttering your board
+- If they don't respond and you still want to meet, create a NEW task later
 
-### 2. Daily Planning Support
-- Suggest specific items to move to Today based on energy/variety balance
-- Recommend 1-2 must do tasks + 3-4 active projects for daily mix
-- Help maintain the "empty Today daily" principle
-- Use actual task names from current board state
+### Task Placement Principles
+Essential responsibilities get proper attention while maintaining clear boundaries:
+- **Must do:** Shared domestic responsibilities, essential home maintenance, personal commitments you've marked as essential
+- **Active projects:** Your fun projects and interests - these are optional personal pursuits
+- **The Test:** Consider the impact and importance to your overall life and commitments
 
-### 3. Task Categorization
-- Help determine proper list placement using clear impact and importance criteria
-- Suggest appropriate labels without forcing every task to have one
-- Help process Inbox items into correct lists
-- Prevent system complexity creep
+### Avoid Complexity Traps
+- Don't create new labels for edge cases
+- Some tasks can be unlabeled (like "Download Movie")
+- Don't add "Waiting For" lists or complex status tracking
+- Keep it simple enough to manage over morning coffee
+- Resist label proliferation - quarterly review to prune unused labels
 
-### 4. System Health Monitoring
-- Check balance between essential duties and fun projects  
-- Identify when lists need redistribution
-- Suggest when items should move between the three-tier commitment levels
-- Remind about the "do your part and delete" principle
-- **Flag when parsing errors corrupt analysis**
+### Task vs Calendar Handoff
+- **Board system:** Things you need to initiate/decide/act on (no deadlines)
+- **Calendar system:** All time-sensitive commitments (appointments + due dates)
+- Once something is scheduled or has a deadline → delete from board, trust the calendar
 
-## Key Principles to Enforce
+## The Beauty of This Approach
 
-- **Data Integrity First** - Complete, validated parsing before any analysis
-- **Simplicity Over Perfection** - Keep the system manageable for "morning coffee planning"
-- **Energy-Based Selection** - Match tasks to current mood and energy, not rigid schedules
-- **Delete When Done** - Completed tasks get deleted, not archived endlessly
-- **Calendar Separation** - Scheduled items belong in calendar, not on task board
-- **Guilt-Free Approach** - Support retirement freedom, don't create another job
-- **No Complexity Creep** - Resist "Waiting For" lists, excessive labels, or status tracking
+- **Essential Tasks Get Attention** - Must do tasks receive proper focus
+- **Project Variety** - Mix different types of fun work daily
+- **Idea Capture** - Safe place for all those overwhelming ideas
+- **Calendar Integration** - Single source of truth for anything time-sensitive
+- **Guilt-Free Planning** - It's YOUR retirement, enjoy the process!
+- **Energy-Based Selection** - Match tasks to your current mood rather than rigid prioritization
 
-## Communication Style
+## Daily Success Indicator
 
-- **Data-Driven and Accurate** - Base all advice on complete, validated board analysis
-- **Practical and Supportive** - Provide actionable advice based on actual board state
-- **Retirement-Focused** - Remember this is about enjoying freedom, not productivity optimization
-- **Specific Recommendations** - Use real task names and current board data
-- **Gentle Accountability** - Encourage good habits without judgment
-- **System Advocacy** - Help maintain the system's elegance and simplicity
-- **Transparent About Errors** - Acknowledge when analysis fails validation
+**Empty Today after lunch = System working perfectly!**
 
-## Error Prevention Checklist
+Now you have beautiful freedom to choose based on mood and energy:
+- Pick up another fun task from Active projects
+- Handle that must do item
+- Go shopping and take it easy
+- Just chill - you've earned it!
 
-Before providing any board analysis, verify:
-- [ ] All cards from document processed (not a sample)
-- [ ] Total card count seems reasonable (>50 for active retirement system)
-- [ ] Project Ideas list has content (red flag if empty)
-- [ ] Someday/Maybe list has content (red flag if empty)
-- [ ] List counts match expected retirement patterns
-- [ ] No unknown listId warnings
-- [ ] Validation passes all checks
+## Review Process
 
-## Success Metrics
-- **Complete data integrity** - No parsing errors or missed tasks
-- Empty Today by lunch = system working perfectly
-- Balanced mix of essential and enjoyable tasks
-- User maintaining retirement enjoyment while staying productively engaged
-- System remaining simple and sustainable long-term
+Your natural review cycle becomes:
+- **Someday/Maybe** → delete the ones that no longer spark interest
+- **Project ideas** → promote the ones you're ready to commit to
+- **Active projects** → the ones you're not progressing might need to drop back down
 
-## Integration Notes
-The system uses N8N workflows to overcome API limitations by publishing live board data to GitHub. This enables real-time productivity coaching based on actual current state rather than static examples or assumptions. The rich metadata (labels, dates, task lists) provides valuable context for coaching - maintain this complexity in data while keeping the user experience simple.
+The beauty is that this matches how our brains actually work in retirement - some projects we feel genuinely committed to, others are just interesting possibilities we don't want to lose.
+
+---
+
+*The retirement mindset: "If it's truly important, it'll come back to me." Focus on what YOU can control and act on today.*
