@@ -1,4 +1,6 @@
 This an attempt to use AI to manage and maintain a planning taskboard system.
+The fact that I am using this after retirement is ridiculous, but it is part of my playground for AI projects.
+It is more funny than useful.
 
 The system prompt is:
 
