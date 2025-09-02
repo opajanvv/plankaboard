@@ -3521,10 +3521,10 @@
             {
                 "id": "1589855724937151687",
                 "createdAt": "2025-09-01T08:59:31.458Z",
-                "updatedAt": null,
+                "updatedAt": "2025-09-02T07:29:11.929Z",
                 "position": 524288,
                 "name": "n8n",
-                "isCompleted": false,
+                "isCompleted": true,
                 "taskListId": "1589854027577820343",
                 "assigneeUserId": null
             },
