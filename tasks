@@ -1351,25 +1351,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1590172065627899098",
-                "createdAt": "2025-09-01T19:28:02.205Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 65536,
-                "name": "Houtsnippers in de achtertuin",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-09-01T19:28:02.205Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797652857866",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1569125818657932512",
                 "createdAt": "2025-08-03T18:32:54.057Z",
                 "updatedAt": "2025-08-03T19:36:29.961Z",
