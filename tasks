@@ -3475,20 +3475,20 @@
             {
                 "id": "1589855624928167109",
                 "createdAt": "2025-09-01T08:59:19.535Z",
-                "updatedAt": null,
+                "updatedAt": "2025-09-02T05:58:43.968Z",
                 "position": 393216,
                 "name": "Wordpress Joke",
-                "isCompleted": false,
+                "isCompleted": true,
                 "taskListId": "1589854027577820343",
                 "assigneeUserId": null
             },
             {
                 "id": "1589855685082875078",
                 "createdAt": "2025-09-01T08:59:26.706Z",
-                "updatedAt": null,
+                "updatedAt": "2025-09-02T05:58:46.406Z",
                 "position": 458752,
                 "name": "Wordpress Kledingruil",
-                "isCompleted": false,
+                "isCompleted": true,
                 "taskListId": "1589854027577820343",
                 "assigneeUserId": null
             },
