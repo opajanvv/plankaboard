@@ -1351,25 +1351,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1582697954454537293",
-                "createdAt": "2025-08-22T11:58:18.722Z",
-                "updatedAt": "2025-08-22T19:31:24.323Z",
-                "type": "project",
-                "position": 65536,
-                "name": "do the lxc migration",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-22T19:31:24.322Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1590172065627899098",
                 "createdAt": "2025-09-01T19:28:02.205Z",
                 "updatedAt": null,
@@ -3103,13 +3084,6 @@
                 "labelId": "1579154066502584289"
             },
             {
-                "id": "1582736366620378202",
-                "createdAt": "2025-08-22T13:14:37.810Z",
-                "updatedAt": null,
-                "cardId": "1582697954454537293",
-                "labelId": "1569125798743376913"
-            },
-            {
                 "id": "1582833189032821855",
                 "createdAt": "2025-08-22T16:26:59.941Z",
                 "updatedAt": null,
@@ -3237,15 +3211,6 @@
                 "name": "Task List",
                 "showOnFrontOfCard": true,
                 "cardId": "1569874403313845762"
-            },
-            {
-                "id": "1589854027577820343",
-                "createdAt": "2025-09-01T08:56:09.115Z",
-                "updatedAt": "2025-09-01T08:58:51.150Z",
-                "position": 65536,
-                "name": "Migration",
-                "showOnFrontOfCard": true,
-                "cardId": "1582697954454537293"
             }
         ],
         "tasks": [
@@ -3290,16 +3255,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1589854194334958776",
-                "createdAt": "2025-09-01T08:56:28.995Z",
-                "updatedAt": "2025-09-01T08:57:31.612Z",
-                "position": 65536,
-                "name": "PostgreSQL",
-                "isCompleted": true,
-                "taskListId": "1589854027577820343",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576351655169886066",
                 "createdAt": "2025-08-13T17:49:20.892Z",
                 "updatedAt": null,
@@ -3337,16 +3292,6 @@
                 "name": "Document current setup/customizations to preserve",
                 "isCompleted": false,
                 "taskListId": "1576776063990630300",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1589854686192600249",
-                "createdAt": "2025-09-01T08:57:27.629Z",
-                "updatedAt": "2025-09-01T08:57:32.561Z",
-                "position": 131072,
-                "name": "MariaDB",
-                "isCompleted": true,
-                "taskListId": "1589854027577820343",
                 "assigneeUserId": null
             },
             {
@@ -3390,16 +3335,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1589855432090846400",
-                "createdAt": "2025-09-01T08:58:56.547Z",
-                "updatedAt": "2025-09-01T08:59:01.638Z",
-                "position": 196608,
-                "name": "Plex",
-                "isCompleted": true,
-                "taskListId": "1589854027577820343",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576351848049149812",
                 "createdAt": "2025-08-13T17:49:43.886Z",
                 "updatedAt": null,
@@ -3437,86 +3372,6 @@
                 "name": "Restore data and essential configs using the instructions from my Jansible project",
                 "isCompleted": false,
                 "taskListId": "1576776063990630300",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1589855549413917891",
-                "createdAt": "2025-09-01T08:59:10.534Z",
-                "updatedAt": "2025-09-01T08:59:12.182Z",
-                "position": 327680,
-                "name": "Planka",
-                "isCompleted": true,
-                "taskListId": "1589854027577820343",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1589855624928167109",
-                "createdAt": "2025-09-01T08:59:19.535Z",
-                "updatedAt": "2025-09-02T05:58:43.968Z",
-                "position": 393216,
-                "name": "Wordpress Joke",
-                "isCompleted": true,
-                "taskListId": "1589854027577820343",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1589855685082875078",
-                "createdAt": "2025-09-01T08:59:26.706Z",
-                "updatedAt": "2025-09-02T05:58:46.406Z",
-                "position": 458752,
-                "name": "Wordpress Kledingruil",
-                "isCompleted": true,
-                "taskListId": "1589854027577820343",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1589855724937151687",
-                "createdAt": "2025-09-01T08:59:31.458Z",
-                "updatedAt": "2025-09-02T07:29:11.929Z",
-                "position": 524288,
-                "name": "n8n",
-                "isCompleted": true,
-                "taskListId": "1589854027577820343",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1589855461744575681",
-                "createdAt": "2025-09-01T08:59:00.083Z",
-                "updatedAt": "2025-09-01T09:01:55.397Z",
-                "position": 540672,
-                "name": "Pi-hole",
-                "isCompleted": false,
-                "taskListId": "1589854027577820343",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1589856872406451403",
-                "createdAt": "2025-09-01T09:01:48.246Z",
-                "updatedAt": "2025-09-01T09:01:52.602Z",
-                "position": 557056,
-                "name": "Finetune and document firewall rules",
-                "isCompleted": false,
-                "taskListId": "1589854027577820343",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1589855963442054344",
-                "createdAt": "2025-09-01T08:59:59.888Z",
-                "updatedAt": null,
-                "position": 589824,
-                "name": "Cleanup Old services and infrastructure",
-                "isCompleted": false,
-                "taskListId": "1589854027577820343",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1589856042563405001",
-                "createdAt": "2025-09-01T09:00:09.321Z",
-                "updatedAt": null,
-                "position": 655360,
-                "name": "Finalize documentation",
-                "isCompleted": false,
-                "taskListId": "1589854027577820343",
                 "assigneeUserId": null
             }
         ],
