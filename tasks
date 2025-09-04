@@ -192,25 +192,6 @@
         ],
         "cards": [
             {
-                "id": "1583302793022669931",
-                "createdAt": "2025-08-23T08:00:01.098Z",
-                "updatedAt": "2025-08-23T10:04:46.303Z",
-                "type": "project",
-                "position": 0.9297300577163696,
-                "name": "Evaluate and implement secure SSH access pattern for LXC containers",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-23T10:04:46.302Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797778686987",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1590503815595951326",
                 "createdAt": "2025-09-02T06:27:09.883Z",
                 "updatedAt": "2025-09-02T06:27:20.671Z",
@@ -3121,13 +3102,6 @@
                 "createdAt": "2025-08-23T10:02:32.240Z",
                 "updatedAt": null,
                 "cardId": "1583272591785722983",
-                "labelId": "1569125798743376913"
-            },
-            {
-                "id": "1583365515718427763",
-                "createdAt": "2025-08-23T10:04:38.226Z",
-                "updatedAt": null,
-                "cardId": "1583302793022669931",
                 "labelId": "1569125798743376913"
             },
             {
