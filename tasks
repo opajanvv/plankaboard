@@ -2377,25 +2377,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1593028433619715336",
-                "createdAt": "2025-09-05T18:03:07.805Z",
-                "updatedAt": "2025-09-05T18:03:18.568Z",
-                "type": "project",
-                "position": 460608.0849609375,
-                "name": "Telefoon houder voor op bureau",
-                "description": "<https://makerworld.com/en/models/1499571-elegant-two-part-phone-stand-with-cable-management#profileId-1568629>",
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-09-05T18:03:07.804Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797778686987",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1572542536268908232",
                 "createdAt": "2025-08-08T11:41:18.535Z",
                 "updatedAt": null,
@@ -3229,13 +3210,6 @@
                 "createdAt": "2025-09-05T14:28:19.647Z",
                 "updatedAt": null,
                 "cardId": "1592920269213664515",
-                "labelId": "1579154066502584289"
-            },
-            {
-                "id": "1593028484320462090",
-                "createdAt": "2025-09-05T18:03:13.849Z",
-                "updatedAt": null,
-                "cardId": "1593028433619715336",
                 "labelId": "1579154066502584289"
             }
         ],
