@@ -1047,25 +1047,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1594261299133416735",
-                "createdAt": "2025-09-07T10:52:36.827Z",
-                "updatedAt": "2025-09-07T10:52:50.428Z",
-                "type": "project",
-                "position": 32768,
-                "name": "3d printer opnieuw aansluiten (camera)",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-09-07T10:52:36.826Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1569125819681342700",
                 "createdAt": "2025-08-03T18:32:54.180Z",
                 "updatedAt": "2025-08-03T18:45:45.831Z",
@@ -1346,25 +1327,6 @@
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
                 "creatorUserId": "1569125757572088833",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
-                "id": "1592919744195855614",
-                "createdAt": "2025-09-05T14:27:11.016Z",
-                "updatedAt": "2025-09-05T18:09:32.189Z",
-                "type": "project",
-                "position": 65536,
-                "name": "Website Wim Sels op USB en bij Ria installeren",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-09-05T18:09:32.188Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
@@ -2130,25 +2092,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1594114210277623062",
-                "createdAt": "2025-09-07T06:00:22.469Z",
-                "updatedAt": "2025-09-07T12:12:05.580Z",
-                "type": "project",
-                "position": 98304,
-                "name": "Subject: [Braintoss] Install Blender",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-09-07T12:12:05.579Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1569125821963044100",
                 "createdAt": "2025-08-03T18:32:54.451Z",
                 "updatedAt": "2025-08-03T19:26:29.072Z",
@@ -2542,6 +2485,25 @@
                 "listChangedAt": "2025-08-08T11:40:32.817Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1594349167377909042",
+                "createdAt": "2025-09-07T13:47:11.538Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 460608.0849609375,
+                "name": "Blender tutorials",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-07T13:47:11.538Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
@@ -3382,9 +3344,25 @@
                 "updatedAt": null,
                 "cardId": "1592920269213664515",
                 "labelId": "1579154066502584289"
+            },
+            {
+                "id": "1594349217550173492",
+                "createdAt": "2025-09-07T13:47:17.519Z",
+                "updatedAt": null,
+                "cardId": "1594349167377909042",
+                "labelId": "1579154066502584289"
             }
         ],
         "taskLists": [
+            {
+                "id": "1594350412364776762",
+                "createdAt": "2025-09-07T13:49:39.952Z",
+                "updatedAt": "2025-09-07T13:51:19.161Z",
+                "position": 32768,
+                "name": "Written tutorials",
+                "showOnFrontOfCard": true,
+                "cardId": "1594349167377909042"
+            },
             {
                 "id": "1576351396490381168",
                 "createdAt": "2025-08-13T17:48:50.056Z",
@@ -3431,16 +3409,36 @@
                 "cardId": "1580002358128018433"
             },
             {
-                "id": "1593031062827566352",
-                "createdAt": "2025-09-05T18:08:21.231Z",
-                "updatedAt": null,
+                "id": "1594349269567931701",
+                "createdAt": "2025-09-07T13:47:23.720Z",
+                "updatedAt": "2025-09-07T13:47:38.260Z",
                 "position": 65536,
-                "name": "Task List",
+                "name": "Youtube tutorials",
                 "showOnFrontOfCard": true,
-                "cardId": "1592919744195855614"
+                "cardId": "1594349167377909042"
             }
         ],
         "tasks": [
+            {
+                "id": "1594349841956209975",
+                "createdAt": "2025-09-07T13:48:31.954Z",
+                "updatedAt": "2025-09-07T13:48:34.309Z",
+                "position": 32768,
+                "name": "https://www.perplexity.ai/search/where-can-i-find-a-tutorial-fo-1m0bn421TzalFahL0ygA3Q",
+                "isCompleted": false,
+                "taskListId": "1594349269567931701",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1594351167532434749",
+                "createdAt": "2025-09-07T13:51:09.975Z",
+                "updatedAt": "2025-09-07T13:51:13.756Z",
+                "position": 32768,
+                "name": "https://www.talleye.com/posts/beginner-blender-setup-for-3d-print-modeling",
+                "isCompleted": false,
+                "taskListId": "1594350412364776762",
+                "assigneeUserId": null
+            },
             {
                 "id": "1576351517252781937",
                 "createdAt": "2025-08-13T17:49:04.452Z",
@@ -3492,13 +3490,23 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1593031136102057233",
-                "createdAt": "2025-09-05T18:08:29.967Z",
+                "id": "1594349582328792374",
+                "createdAt": "2025-09-07T13:48:01.004Z",
                 "updatedAt": null,
                 "position": 65536,
-                "name": "Zet op USB",
+                "name": "https://www.perplexity.ai/search/where-can-i-find-a-tutorial-fo-1m0bn421TzalFahL0ygA3Q",
                 "isCompleted": false,
-                "taskListId": "1593031062827566352",
+                "taskListId": "1594349269567931701",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1594350653268821307",
+                "createdAt": "2025-09-07T13:50:08.669Z",
+                "updatedAt": null,
+                "position": 65536,
+                "name": "https://studio.blender.org/training/3d-printing/",
+                "isCompleted": false,
+                "taskListId": "1594350412364776762",
                 "assigneeUserId": null
             },
             {
@@ -3552,13 +3560,23 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1593031488390038802",
-                "createdAt": "2025-09-05T18:09:11.962Z",
+                "id": "1594350084479255864",
+                "createdAt": "2025-09-07T13:49:00.865Z",
                 "updatedAt": null,
                 "position": 131072,
-                "name": "Installeer bij Ria",
+                "name": "https://www.perplexity.ai/search/where-can-i-find-a-tutorial-fo-1m0bn421TzalFahL0ygA3Q",
                 "isCompleted": false,
-                "taskListId": "1593031062827566352",
+                "taskListId": "1594349269567931701",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1594350945930577212",
+                "createdAt": "2025-09-07T13:50:43.557Z",
+                "updatedAt": null,
+                "position": 131072,
+                "name": "https://all3dp.com/2/blender-3d-printing-tutorial/",
+                "isCompleted": false,
+                "taskListId": "1594350412364776762",
                 "assigneeUserId": null
             },
             {
@@ -3609,6 +3627,16 @@
                 "name": "Unsubscribe from Google One",
                 "isCompleted": false,
                 "taskListId": "1593030304421905676",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1594350302004249913",
+                "createdAt": "2025-09-07T13:49:26.796Z",
+                "updatedAt": null,
+                "position": 196608,
+                "name": "https://www.perplexity.ai/search/where-can-i-find-a-tutorial-fo-1m0bn421TzalFahL0ygA3Q",
+                "isCompleted": false,
+                "taskListId": "1594349269567931701",
                 "assigneeUserId": null
             },
             {
