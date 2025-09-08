@@ -192,6 +192,25 @@
         ],
         "cards": [
             {
+                "id": "1594838980363289923",
+                "createdAt": "2025-09-08T06:00:21.796Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 1,
+                "name": "Subject: [Braintoss] Pianoboeken uitzoeken",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-08T06:00:21.795Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1590503815595951326",
                 "createdAt": "2025-09-02T06:27:09.883Z",
                 "updatedAt": "2025-09-02T06:27:20.671Z",
