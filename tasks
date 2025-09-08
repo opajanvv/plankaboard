@@ -1712,6 +1712,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1594908665343640903",
+                "createdAt": "2025-09-08T08:18:48.892Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 81921,
+                "name": "Telefoonhouder: stekkertje vastzetten",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-08T08:18:48.892Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1569125808205726830",
                 "createdAt": "2025-08-03T18:32:52.811Z",
                 "updatedAt": "2025-08-03T19:27:24.041Z",
@@ -2641,6 +2660,25 @@
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
+            },
+            {
+                "id": "1594919432751154506",
+                "createdAt": "2025-09-08T08:40:12.467Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 978947.75,
+                "name": "Enable IPv6 in homelab",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-08T08:40:12.467Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797938070540",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
             }
         ],
         "cardMemberships": [],
@@ -3351,6 +3389,20 @@
                 "updatedAt": null,
                 "cardId": "1594349167377909042",
                 "labelId": "1579154066502584289"
+            },
+            {
+                "id": "1594908709283169609",
+                "createdAt": "2025-09-08T08:18:54.132Z",
+                "updatedAt": null,
+                "cardId": "1594908665343640903",
+                "labelId": "1579154066502584289"
+            },
+            {
+                "id": "1594919492998137164",
+                "createdAt": "2025-09-08T08:40:19.650Z",
+                "updatedAt": null,
+                "cardId": "1594919432751154506",
+                "labelId": "1569125798743376913"
             }
         ],
         "taskLists": [
