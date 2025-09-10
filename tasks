@@ -2717,6 +2717,25 @@
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
+            },
+            {
+                "id": "1596451796308460889",
+                "createdAt": "2025-09-10T11:24:44.439Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 1110019.75,
+                "name": "status janvv op wall tablet",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-10T11:24:44.438Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797938070540",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
             }
         ],
         "cardMemberships": [],
