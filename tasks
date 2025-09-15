@@ -895,6 +895,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1600033210228540778",
+                "createdAt": "2025-09-15T10:00:22.248Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 4097,
+                "name": "Subject: =?us-ascii?Q?[Braintoss]_Op_vakantie_lijst:statief,_meringo_?=  =?us-ascii?Q?shirt?=",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-15T10:00:22.247Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1575269859242018611",
                 "createdAt": "2025-08-12T06:00:00.769Z",
                 "updatedAt": "2025-08-12T13:15:33.236Z",
