@@ -496,6 +496,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1600999573591950704",
+                "createdAt": "2025-09-16T18:00:21.738Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 513,
+                "name": "Subject: [Braintoss] Vakantie lijst: statief",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-16T18:00:21.737Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1576204002020820828",
                 "createdAt": "2025-08-13T12:55:59.265Z",
                 "updatedAt": "2025-08-14T09:49:31.488Z",
