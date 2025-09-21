@@ -306,6 +306,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1604291263740249480",
+                "createdAt": "2025-09-21T07:00:21.782Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 5,
+                "name": "Subject: =?us-ascii?Q?[Braintoss]_A_warning_about_AI_coding._I_didn't?=  =?us-ascii?Q?_have_wifi_for_a_week_a...?=",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-21T07:00:21.781Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1587077664357745802",
                 "createdAt": "2025-08-28T13:00:00.827Z",
                 "updatedAt": "2025-08-30T19:33:26.457Z",
