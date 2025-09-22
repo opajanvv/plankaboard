@@ -268,6 +268,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1605076436819903886",
+                "createdAt": "2025-09-22T09:00:21.707Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 2,
+                "name": "Subject: [Braintoss] Karnaval afbetalen",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-22T09:00:21.706Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1605016041417606538",
                 "createdAt": "2025-09-22T07:00:22.014Z",
                 "updatedAt": null,
