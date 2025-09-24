@@ -2983,6 +2983,25 @@
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
+            },
+            {
+                "id": "1606805750422701520",
+                "createdAt": "2025-09-24T18:16:11.952Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 1835008,
+                "name": "Investigate Nuclear music player",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-24T18:16:11.952Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797938070540",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
             }
         ],
         "cardMemberships": [],
