@@ -192,6 +192,25 @@
         ],
         "cards": [
             {
+                "id": "1606556188403566019",
+                "createdAt": "2025-09-24T10:00:21.841Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 1,
+                "name": "Subject: [Braintoss] Nano banana",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-24T10:00:21.841Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1602418930427626870",
                 "createdAt": "2025-09-18T17:00:22.257Z",
                 "updatedAt": "2025-09-24T08:10:37.672Z",
