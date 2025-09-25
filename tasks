@@ -306,6 +306,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1607244239689745874",
+                "createdAt": "2025-09-25T08:47:23.947Z",
+                "updatedAt": "2025-09-25T08:47:35.175Z",
+                "type": "project",
+                "position": 15360,
+                "name": "Install Zorin OS voor Joke",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-25T08:47:23.946Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1579014540941592534",
                 "createdAt": "2025-08-17T10:00:01.613Z",
                 "updatedAt": "2025-08-17T14:29:40.972Z",
