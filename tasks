@@ -230,25 +230,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1597127938145256796",
-                "createdAt": "2025-09-11T09:48:06.826Z",
-                "updatedAt": "2025-09-25T10:28:34.005Z",
-                "type": "project",
-                "position": 3072,
-                "name": "Move Homelab project to Github",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-09-11T09:48:06.826Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797778686987",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1607244239689745874",
                 "createdAt": "2025-09-25T08:47:23.947Z",
                 "updatedAt": "2025-09-27T17:05:27.200Z",
@@ -382,25 +363,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1612475192657839607",
-                "createdAt": "2025-10-02T14:00:22.133Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 16385,
-                "name": "Subject: [Braintoss] Boheems Zwitserland",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-10-02T14:00:22.132Z",
-                "boardId": "1569125797208261637",
-                "listId": "1571110862045840924",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1594114210428618009",
                 "createdAt": "2025-09-07T06:00:22.487Z",
                 "updatedAt": "2025-09-07T12:12:41.527Z",
@@ -496,25 +458,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1594295400578155811",
-                "createdAt": "2025-09-07T12:00:22.035Z",
-                "updatedAt": "2025-09-07T12:12:17.433Z",
-                "type": "project",
-                "position": 49152,
-                "name": "Subject: [Braintoss] Orgel declaratie Almere, Hilversum",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-09-07T12:11:45.551Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797778686987",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1594869179150763333",
                 "createdAt": "2025-09-08T07:00:21.768Z",
                 "updatedAt": "2025-09-08T14:25:52.426Z",
@@ -547,6 +490,25 @@
                 "listChangedAt": "2025-09-23T19:03:59.590Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1615226785685833217",
+                "createdAt": "2025-10-06T09:07:17.584Z",
+                "updatedAt": "2025-10-06T09:09:07.801Z",
+                "type": "project",
+                "position": 57344,
+                "name": "Optimize site for SEO: https://www.perplexity.ai/search/google-search-finds-links-to-o-Ng5YGfotTXGvyGjFS4MIcg",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-10-06T09:09:07.800Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
@@ -914,6 +876,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1597127938145256796",
+                "createdAt": "2025-09-11T09:48:06.826Z",
+                "updatedAt": "2025-10-06T09:09:29.488Z",
+                "type": "project",
+                "position": 122880,
+                "name": "Move Homelab project to Github",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-09-11T09:48:06.826Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1577715977368373189",
                 "createdAt": "2025-08-15T15:00:00.773Z",
                 "updatedAt": "2025-09-07T12:12:17.456Z",
@@ -1028,6 +1009,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1612475192657839607",
+                "createdAt": "2025-10-02T14:00:22.133Z",
+                "updatedAt": "2025-10-06T09:09:33.693Z",
+                "type": "project",
+                "position": 172032,
+                "name": "Subject: [Braintoss] Boheems Zwitserland",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-10-06T09:09:33.692Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797938070540",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1586157062084101248",
                 "createdAt": "2025-08-27T06:30:56.484Z",
                 "updatedAt": "2025-09-24T08:08:27.916Z",
@@ -1136,25 +1136,6 @@
                 "listChangedAt": "2025-08-23T10:02:43.617Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
-                "id": "1608714670355514849",
-                "createdAt": "2025-09-27T09:28:52.942Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 229376,
-                "name": "Website/Omarchy/enzo",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-09-27T09:28:52.942Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797652857866",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
@@ -3916,15 +3897,6 @@
                 "name": "Youtube tutorials",
                 "showOnFrontOfCard": true,
                 "cardId": "1594349167377909042"
-            },
-            {
-                "id": "1608714739947406819",
-                "createdAt": "2025-09-27T09:29:01.239Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Task List",
-                "showOnFrontOfCard": true,
-                "cardId": "1608714670355514849"
             }
         ],
         "tasks": [
@@ -4009,16 +3981,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1608714829831341540",
-                "createdAt": "2025-09-27T09:29:11.952Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Setup website server",
-                "isCompleted": false,
-                "taskListId": "1608714739947406819",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576351655169886066",
                 "createdAt": "2025-08-13T17:49:20.892Z",
                 "updatedAt": null,
@@ -4079,16 +4041,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1608714943765415397",
-                "createdAt": "2025-09-27T09:29:25.535Z",
-                "updatedAt": null,
-                "position": 131072,
-                "name": "Maak initial website",
-                "isCompleted": false,
-                "taskListId": "1608714739947406819",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576351742285580147",
                 "createdAt": "2025-08-13T17:49:31.278Z",
                 "updatedAt": null,
@@ -4139,16 +4091,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1608715084148770278",
-                "createdAt": "2025-09-27T09:29:42.269Z",
-                "updatedAt": null,
-                "position": 196608,
-                "name": "Maak sectie voor Omarchy",
-                "isCompleted": false,
-                "taskListId": "1608714739947406819",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576351848049149812",
                 "createdAt": "2025-08-13T17:49:43.886Z",
                 "updatedAt": null,
@@ -4186,16 +4128,6 @@
                 "name": "Restore data and essential configs using the instructions from my Jansible project",
                 "isCompleted": false,
                 "taskListId": "1576776063990630300",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1608717085662250471",
-                "createdAt": "2025-09-27T09:33:40.868Z",
-                "updatedAt": "2025-09-27T09:34:36.074Z",
-                "position": 262144,
-                "name": "Setup Omarchy op laptop2 en documenteer op website",
-                "isCompleted": false,
-                "taskListId": "1608714739947406819",
                 "assigneeUserId": null
             }
         ],
