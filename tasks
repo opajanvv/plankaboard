@@ -916,21 +916,21 @@
             {
                 "id": "1617456898833909265",
                 "createdAt": "2025-10-09T10:58:07.787Z",
-                "updatedAt": "2025-10-09T10:58:20.630Z",
+                "updatedAt": "2025-10-09T11:09:02.748Z",
                 "type": "project",
                 "position": 81921,
                 "name": "https://www.youtube.com/watch?v=mxq4Ne_8ne4",
                 "description": "Voor lezing",
                 "dueDate": null,
                 "stopwatch": null,
-                "commentsTotal": 0,
+                "commentsTotal": 1,
                 "listChangedAt": "2025-10-09T10:58:07.787Z",
                 "boardId": "1569125797208261637",
                 "listId": "1571110862045840924",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
-                "isSubscribed": false
+                "isSubscribed": true
             },
             {
                 "id": "1594838980363289923",
