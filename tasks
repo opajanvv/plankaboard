@@ -914,6 +914,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1617456898833909265",
+                "createdAt": "2025-10-09T10:58:07.787Z",
+                "updatedAt": "2025-10-09T10:58:20.630Z",
+                "type": "project",
+                "position": 81921,
+                "name": "https://www.youtube.com/watch?v=mxq4Ne_8ne4",
+                "description": "Voor lezing",
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-10-09T10:58:07.787Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1594838980363289923",
                 "createdAt": "2025-09-08T06:00:21.796Z",
                 "updatedAt": "2025-09-24T08:08:27.904Z",
