@@ -1085,6 +1085,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1617674129220044309",
+                "createdAt": "2025-10-09T18:09:43.668Z",
+                "updatedAt": "2025-10-09T18:09:51.729Z",
+                "type": "project",
+                "position": 147457,
+                "name": "ChatGPT, lezing, foto bewerken",
+                "description": "* Take the original photo.\n\n* Remove the woman and everything visible on the right side of the image.\n\n* Fill that removed area with a natural continuation of the dark wall.\n\n* Keep the **same aspect ratio** as the original photo.\n\n* Ensure the **lighting remains consistent**: the soft spot of light on the wall should still appear where the woman was, so it looks like she was never there.\n\n* Do **not crop or zoom in** on the subject (the man). Keep his size and position as in the original.",
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-10-09T18:09:43.667Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1587077664357745802",
                 "createdAt": "2025-08-28T13:00:00.827Z",
                 "updatedAt": "2025-09-24T08:08:27.913Z",
