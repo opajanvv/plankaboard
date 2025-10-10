@@ -249,6 +249,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1618333702289360407",
+                "createdAt": "2025-10-10T16:00:10.905Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 2049,
+                "name": "Subject: =?us-ascii?Q?[Braintoss]_Lezing_AI_report_10_oktober,_gebrui?=  =?us-ascii?Q?kscijfers__chatgpt?=",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-10-10T16:00:10.904Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1607244239689745874",
                 "createdAt": "2025-09-25T08:47:23.947Z",
                 "updatedAt": "2025-09-27T17:05:27.200Z",
