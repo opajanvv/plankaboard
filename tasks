@@ -1474,25 +1474,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1618363900774843929",
-                "createdAt": "2025-10-10T17:00:10.845Z",
-                "updatedAt": "2025-10-13T17:18:41.778Z",
-                "type": "project",
-                "position": 327680,
-                "name": "Subject: [Braintoss] Reserveren Pandje, 6 uur",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-10-13T06:37:24.755Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1590112653043303639",
                 "createdAt": "2025-09-01T17:29:59.674Z",
                 "updatedAt": null,
