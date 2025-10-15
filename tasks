@@ -733,6 +733,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1621847965721167426",
+                "createdAt": "2025-10-15T12:22:23.751Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 65536,
+                "name": "Website PGH",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-10-15T12:22:23.751Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1569125818657932512",
                 "createdAt": "2025-08-03T18:32:54.057Z",
                 "updatedAt": "2025-08-03T19:36:29.961Z",
@@ -4131,6 +4150,15 @@
                 "name": "Youtube tutorials",
                 "showOnFrontOfCard": true,
                 "cardId": "1594349167377909042"
+            },
+            {
+                "id": "1621848177785177668",
+                "createdAt": "2025-10-15T12:22:49.032Z",
+                "updatedAt": null,
+                "position": 65536,
+                "name": "Task List",
+                "showOnFrontOfCard": true,
+                "cardId": "1621847965721167426"
             }
         ],
         "tasks": [
@@ -4215,6 +4243,16 @@
                 "assigneeUserId": null
             },
             {
+                "id": "1621848379497645637",
+                "createdAt": "2025-10-15T12:23:13.077Z",
+                "updatedAt": null,
+                "position": 65536,
+                "name": "Backup naar Google Drive / Dropbox",
+                "isCompleted": false,
+                "taskListId": "1621848177785177668",
+                "assigneeUserId": null
+            },
+            {
                 "id": "1576351655169886066",
                 "createdAt": "2025-08-13T17:49:20.892Z",
                 "updatedAt": null,
@@ -4275,6 +4313,16 @@
                 "assigneeUserId": null
             },
             {
+                "id": "1621848542278583878",
+                "createdAt": "2025-10-15T12:23:32.482Z",
+                "updatedAt": null,
+                "position": 131072,
+                "name": "Uninstall Plugin Counts per Day",
+                "isCompleted": false,
+                "taskListId": "1621848177785177668",
+                "assigneeUserId": null
+            },
+            {
                 "id": "1576351742285580147",
                 "createdAt": "2025-08-13T17:49:31.278Z",
                 "updatedAt": null,
@@ -4325,6 +4373,26 @@
                 "assigneeUserId": null
             },
             {
+                "id": "1621848835301049927",
+                "createdAt": "2025-10-15T12:24:07.414Z",
+                "updatedAt": "2025-10-15T12:30:43.596Z",
+                "position": 196608,
+                "name": "WIjzig Automatic Backup naar daily/weekly/monthly?",
+                "isCompleted": false,
+                "taskListId": "1621848177785177668",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1621851566044612170",
+                "createdAt": "2025-10-15T12:29:32.944Z",
+                "updatedAt": "2025-10-15T12:30:24.465Z",
+                "position": 229376,
+                "name": "Checken reacties",
+                "isCompleted": false,
+                "taskListId": "1621848177785177668",
+                "assigneeUserId": null
+            },
+            {
                 "id": "1576351848049149812",
                 "createdAt": "2025-08-13T17:49:43.886Z",
                 "updatedAt": null,
@@ -4362,6 +4430,26 @@
                 "name": "Restore data and essential configs using the instructions from my Jansible project",
                 "isCompleted": false,
                 "taskListId": "1576776063990630300",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1621849008962012744",
+                "createdAt": "2025-10-15T12:24:28.115Z",
+                "updatedAt": null,
+                "position": 262144,
+                "name": "Backup en Upgrade Wordpress",
+                "isCompleted": false,
+                "taskListId": "1621848177785177668",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1621849207520364105",
+                "createdAt": "2025-10-15T12:24:51.786Z",
+                "updatedAt": null,
+                "position": 327680,
+                "name": "Maak overzicht plugins",
+                "isCompleted": false,
+                "taskListId": "1621848177785177668",
                 "assigneeUserId": null
             }
         ],
