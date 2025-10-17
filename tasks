@@ -3277,6 +3277,25 @@
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
+            },
+            {
+                "id": "1623319595999823437",
+                "createdAt": "2025-10-17T13:06:15.751Z",
+                "updatedAt": "2025-10-17T13:06:23.865Z",
+                "type": "project",
+                "position": 1966080,
+                "name": "Test Picasa in Winapps",
+                "description": "<https://github.com/winapps-org/winapps/tree/main>",
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-10-17T13:06:15.750Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797938070540",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
             }
         ],
         "cardMemberships": [],
