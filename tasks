@@ -752,6 +752,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1623293429498775115",
+                "createdAt": "2025-10-17T12:14:16.462Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 65536,
+                "name": "overloop gootsteen ontstoppen",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-10-17T12:14:16.461Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797652857866",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1569125818657932512",
                 "createdAt": "2025-08-03T18:32:54.057Z",
                 "updatedAt": "2025-08-03T19:36:29.961Z",
