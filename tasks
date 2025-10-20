@@ -1474,6 +1474,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1625530590268753499",
+                "createdAt": "2025-10-20T14:19:06.808Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 262144,
+                "name": "Kopen: https://www.boekenwereld.com/kokboekencentrum-nonfictie-nieuwe-voorspelen-en-begeleidingen-bij-het-liedboek-9789043536479?utm_campaign=INT_DirectSales&utm_source=theologie.nl&utm_medium=referral",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-10-20T14:19:06.807Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1583304235150214255",
                 "createdAt": "2025-08-23T08:02:53.012Z",
                 "updatedAt": "2025-09-24T08:08:27.928Z",
