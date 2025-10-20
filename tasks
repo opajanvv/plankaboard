@@ -201,6 +201,25 @@
         ],
         "cards": [
             {
+                "id": "1625430463575230035",
+                "createdAt": "2025-10-20T11:00:10.775Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 1,
+                "name": "Subject: [Braintoss] Lovable",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-10-20T11:00:10.774Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1617306935772579343",
                 "createdAt": "2025-10-09T06:00:10.797Z",
                 "updatedAt": "2025-10-13T06:41:15.743Z",
