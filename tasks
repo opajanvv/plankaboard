@@ -505,6 +505,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1626034444525635167",
+                "createdAt": "2025-10-21T07:00:10.915Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 16384.75,
+                "name": "Subject: =?us-ascii?Q?[Braintoss]_Lezing_zie_Perplexity_Handige_promp?=  =?us-ascii?Q?ts?=",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-10-21T07:00:10.915Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1616008379262567943",
                 "createdAt": "2025-10-07T11:00:10.778Z",
                 "updatedAt": "2025-10-13T06:37:49.128Z",
