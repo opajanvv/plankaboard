@@ -885,6 +885,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1628139102601741943",
+                "createdAt": "2025-10-24T04:41:45.710Z",
+                "updatedAt": "2025-10-24T04:46:18.350Z",
+                "type": "project",
+                "position": 65536,
+                "name": "Penningmeester notities",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 1,
+                "listChangedAt": "2025-10-24T04:41:45.709Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": true
+            },
+            {
                 "id": "1569125818657932512",
                 "createdAt": "2025-08-03T18:32:54.057Z",
                 "updatedAt": "2025-08-03T19:36:29.961Z",
