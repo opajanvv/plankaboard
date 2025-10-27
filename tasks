@@ -733,25 +733,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1617456898833909265",
-                "createdAt": "2025-10-09T10:58:07.787Z",
-                "updatedAt": "2025-10-27T07:46:07.989Z",
-                "type": "project",
-                "position": 49152,
-                "name": "Filmpje over ChatGPT training Kenia",
-                "description": "lezing: \n\n<https://www.youtube.com/watch?v=mxq4Ne_8ne4>: 6:35  Kenia ChatGPT trainers",
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-10-27T07:45:22.675Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": true
-            },
-            {
                 "id": "1615226785685833217",
                 "createdAt": "2025-10-06T09:07:17.584Z",
                 "updatedAt": "2025-10-06T09:09:07.801Z",
@@ -1373,25 +1354,6 @@
                 "listChangedAt": "2025-09-01T09:01:18.825Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
-                "id": "1620358650746897974",
-                "createdAt": "2025-10-13T11:03:23.571Z",
-                "updatedAt": "2025-10-27T07:45:26.933Z",
-                "type": "project",
-                "position": 196608,
-                "name": "lezing: text tuner twee keer",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-10-27T07:45:26.933Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
@@ -4213,13 +4175,6 @@
                 "labelId": "1620230592681477680"
             },
             {
-                "id": "1620230797145409074",
-                "createdAt": "2025-10-13T06:49:22.235Z",
-                "updatedAt": null,
-                "cardId": "1617456898833909265",
-                "labelId": "1620230592681477680"
-            },
-            {
                 "id": "1620230859850253875",
                 "createdAt": "2025-10-13T06:49:29.710Z",
                 "updatedAt": null,
@@ -4238,13 +4193,6 @@
                 "createdAt": "2025-10-13T06:49:44.562Z",
                 "updatedAt": null,
                 "cardId": "1605106635934533008",
-                "labelId": "1620230592681477680"
-            },
-            {
-                "id": "1620358716480030264",
-                "createdAt": "2025-10-13T11:03:31.409Z",
-                "updatedAt": null,
-                "cardId": "1620358650746897974",
                 "labelId": "1620230592681477680"
             },
             {
