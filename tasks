@@ -583,7 +583,7 @@
             {
                 "id": "1594349167377909042",
                 "createdAt": "2025-09-07T13:47:11.538Z",
-                "updatedAt": "2025-09-07T14:09:45.384Z",
+                "updatedAt": "2025-10-28T13:28:26.306Z",
                 "type": "project",
                 "position": 24576,
                 "name": "Blender tutorials",
@@ -4181,6 +4181,16 @@
                 "assigneeUserId": null
             },
             {
+                "id": "1594350945930577212",
+                "createdAt": "2025-09-07T13:50:43.557Z",
+                "updatedAt": "2025-10-28T13:26:13.474Z",
+                "position": 49152,
+                "name": "https://all3dp.com/2/blender-3d-printing-tutorial/",
+                "isCompleted": false,
+                "taskListId": "1594350412364776762",
+                "assigneeUserId": null
+            },
+            {
                 "id": "1576351517252781937",
                 "createdAt": "2025-08-13T17:49:04.452Z",
                 "updatedAt": null,
@@ -4218,16 +4228,6 @@
                 "name": "Backup important data and configs",
                 "isCompleted": false,
                 "taskListId": "1576776063990630300",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1594349582328792374",
-                "createdAt": "2025-09-07T13:48:01.004Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "https://www.perplexity.ai/search/where-can-i-find-a-tutorial-fo-1m0bn421TzalFahL0ygA3Q",
-                "isCompleted": false,
-                "taskListId": "1594349269567931701",
                 "assigneeUserId": null
             },
             {
@@ -4291,26 +4291,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1594350084479255864",
-                "createdAt": "2025-09-07T13:49:00.865Z",
-                "updatedAt": null,
-                "position": 131072,
-                "name": "https://www.perplexity.ai/search/where-can-i-find-a-tutorial-fo-1m0bn421TzalFahL0ygA3Q",
-                "isCompleted": false,
-                "taskListId": "1594349269567931701",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1594350945930577212",
-                "createdAt": "2025-09-07T13:50:43.557Z",
-                "updatedAt": null,
-                "position": 131072,
-                "name": "https://all3dp.com/2/blender-3d-printing-tutorial/",
-                "isCompleted": false,
-                "taskListId": "1594350412364776762",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1621848542278583878",
                 "createdAt": "2025-10-15T12:23:32.482Z",
                 "updatedAt": null,
@@ -4358,16 +4338,6 @@
                 "name": "Install POP_OS on main laptop",
                 "isCompleted": false,
                 "taskListId": "1576776063990630300",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1594350302004249913",
-                "createdAt": "2025-09-07T13:49:26.796Z",
-                "updatedAt": null,
-                "position": 196608,
-                "name": "https://www.perplexity.ai/search/where-can-i-find-a-tutorial-fo-1m0bn421TzalFahL0ygA3Q",
-                "isCompleted": false,
-                "taskListId": "1594349269567931701",
                 "assigneeUserId": null
             },
             {
