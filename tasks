@@ -4469,6 +4469,16 @@
                 "assigneeUserId": null
             },
             {
+                "id": "1631930945953072795",
+                "createdAt": "2025-10-29T10:15:28.662Z",
+                "updatedAt": null,
+                "position": 262144,
+                "name": "Declaratie Gea, afscheid Heleen Weimar, restant is gift? Of gaat dat niet in de boeken?",
+                "isCompleted": false,
+                "taskListId": "1631895326715545239",
+                "assigneeUserId": null
+            },
+            {
                 "id": "1621849207520364105",
                 "createdAt": "2025-10-15T12:24:51.786Z",
                 "updatedAt": null,
