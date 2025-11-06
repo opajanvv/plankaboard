@@ -201,25 +201,6 @@
         ],
         "cards": [
             {
-                "id": "1606678643348604366",
-                "createdAt": "2025-09-24T14:03:39.609Z",
-                "updatedAt": "2025-09-27T09:34:55.539Z",
-                "type": "project",
-                "position": 1024,
-                "name": "Kloosterwinkel Baarn bezoeken",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-09-27T09:34:55.538Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797938070540",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1621666247156434495",
                 "createdAt": "2025-10-15T06:21:21.210Z",
                 "updatedAt": "2025-10-27T07:45:19.521Z",
@@ -657,6 +638,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1637811417908250353",
+                "createdAt": "2025-11-06T12:58:55.545Z",
+                "updatedAt": "2025-11-06T12:59:25.810Z",
+                "type": "project",
+                "position": 32768,
+                "name": "Document SSH / How to enroll a new LXC into my system",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-06T12:58:55.544Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797468308489",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1602479328086459772",
                 "createdAt": "2025-09-18T19:00:22.220Z",
                 "updatedAt": "2025-09-24T08:06:14.455Z",
@@ -765,6 +765,44 @@
                 "listChangedAt": "2025-09-24T08:06:44.440Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1637796732257437414",
+                "createdAt": "2025-11-06T12:29:44.879Z",
+                "updatedAt": "2025-11-06T12:29:51.876Z",
+                "type": "project",
+                "position": 65536,
+                "name": "Papieren op bureau uitzoeken",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-06T12:29:51.876Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797652857866",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1637797119366530794",
+                "createdAt": "2025-11-06T12:30:31.027Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 65536,
+                "name": "Setup AI server",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-06T12:30:31.026Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797468308489",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
@@ -1132,25 +1170,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1631895086423869077",
-                "createdAt": "2025-10-29T09:04:13.872Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 131072,
-                "name": "Vragen voor Koos",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-10-29T09:04:13.872Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797652857866",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1592920269213664515",
                 "createdAt": "2025-09-05T14:28:13.603Z",
                 "updatedAt": "2025-09-07T12:12:17.459Z",
@@ -1303,25 +1322,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1637359068462974655",
-                "createdAt": "2025-11-05T22:00:11.290Z",
-                "updatedAt": "2025-11-06T08:21:08.305Z",
-                "type": "project",
-                "position": 196608,
-                "name": "Naturalis boeken",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-11-06T08:20:56.166Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1583302792888452201",
                 "createdAt": "2025-08-23T08:00:01.081Z",
                 "updatedAt": "2025-09-24T08:08:27.920Z",
@@ -1411,25 +1411,6 @@
                 "listChangedAt": "2025-08-22T16:26:51.925Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
-                "id": "1637359068504917696",
-                "createdAt": "2025-11-05T22:00:11.295Z",
-                "updatedAt": "2025-11-06T08:21:41.892Z",
-                "type": "project",
-                "position": 262144,
-                "name": "Home Assistant: conditie voor afwezig / lampen fixen",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-11-06T08:21:18.674Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
@@ -1887,6 +1868,25 @@
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
                 "creatorUserId": "1569125757572088833",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1637797689942869741",
+                "createdAt": "2025-11-06T12:31:39.045Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 591680.0849609375,
+                "name": "Downloadserver voor films maken",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-06T12:31:39.045Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
+                "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
@@ -4116,13 +4116,6 @@
                 "labelId": "1579154066502584289"
             },
             {
-                "id": "1608717752548197865",
-                "createdAt": "2025-09-27T09:35:00.369Z",
-                "updatedAt": null,
-                "cardId": "1606678643348604366",
-                "labelId": "1569125799045366803"
-            },
-            {
                 "id": "1608958695448774129",
                 "createdAt": "2025-09-27T17:33:43.000Z",
                 "updatedAt": null,
@@ -4156,6 +4149,20 @@
                 "updatedAt": null,
                 "cardId": "1633342599077037734",
                 "labelId": "1569125798248449038"
+            },
+            {
+                "id": "1637797740240963311",
+                "createdAt": "2025-11-06T12:31:45.040Z",
+                "updatedAt": null,
+                "cardId": "1637797689942869741",
+                "labelId": "1569125798743376913"
+            },
+            {
+                "id": "1637797915999078128",
+                "createdAt": "2025-11-06T12:32:05.993Z",
+                "updatedAt": null,
+                "cardId": "1607244239689745874",
+                "labelId": "1569125798743376913"
             }
         ],
         "taskLists": [
@@ -4221,15 +4228,6 @@
                 "name": "Task List",
                 "showOnFrontOfCard": true,
                 "cardId": "1621847965721167426"
-            },
-            {
-                "id": "1631895326715545239",
-                "createdAt": "2025-10-29T09:04:42.518Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Vragen",
-                "showOnFrontOfCard": true,
-                "cardId": "1631895086423869077"
             }
         ],
         "tasks": [
@@ -4324,16 +4322,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1631895460673226392",
-                "createdAt": "2025-10-29T09:04:58.487Z",
-                "updatedAt": null,
-                "position": 65536,
-                "name": "Inloggen Zettle account?",
-                "isCompleted": false,
-                "taskListId": "1631895326715545239",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576351655169886066",
                 "createdAt": "2025-08-13T17:49:20.892Z",
                 "updatedAt": null,
@@ -4384,16 +4372,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1631912707055683225",
-                "createdAt": "2025-10-29T09:39:14.416Z",
-                "updatedAt": null,
-                "position": 131072,
-                "name": "Bonnen kleuren betekenis",
-                "isCompleted": false,
-                "taskListId": "1631895326715545239",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1576351742285580147",
                 "createdAt": "2025-08-13T17:49:31.278Z",
                 "updatedAt": null,
@@ -4441,16 +4419,6 @@
                 "name": "WIjzig Automatic Backup naar daily/weekly/monthly?",
                 "isCompleted": false,
                 "taskListId": "1621848177785177668",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1631917587782698650",
-                "createdAt": "2025-10-29T09:48:56.243Z",
-                "updatedAt": "2025-10-29T11:58:19.832Z",
-                "position": 196608,
-                "name": "Betalingen facturen Tjerk. Hoe doorgeven? Of ergens invullen?",
-                "isCompleted": true,
-                "taskListId": "1631895326715545239",
                 "assigneeUserId": null
             },
             {
@@ -4514,16 +4482,6 @@
                 "assigneeUserId": null
             },
             {
-                "id": "1631930945953072795",
-                "createdAt": "2025-10-29T10:15:28.662Z",
-                "updatedAt": null,
-                "position": 262144,
-                "name": "Declaratie Gea, afscheid Heleen Weimar, restant is gift? Of gaat dat niet in de boeken?",
-                "isCompleted": false,
-                "taskListId": "1631895326715545239",
-                "assigneeUserId": null
-            },
-            {
                 "id": "1621849207520364105",
                 "createdAt": "2025-10-15T12:24:51.786Z",
                 "updatedAt": null,
@@ -4531,26 +4489,6 @@
                 "name": "Maak overzicht plugins",
                 "isCompleted": false,
                 "taskListId": "1621848177785177668",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1631962111494063772",
-                "createdAt": "2025-10-29T11:17:23.884Z",
-                "updatedAt": "2025-10-29T11:17:29.230Z",
-                "position": 327680,
-                "name": "Giften afgelopen week, nog bedankjes uitsturen?",
-                "isCompleted": false,
-                "taskListId": "1631895326715545239",
-                "assigneeUserId": null
-            },
-            {
-                "id": "1631965150745462430",
-                "createdAt": "2025-10-29T11:23:26.191Z",
-                "updatedAt": null,
-                "position": 393216,
-                "name": "wanneer factuur op drive, en wanneer alleen in mailbox",
-                "isCompleted": false,
-                "taskListId": "1631895326715545239",
                 "assigneeUserId": null
             }
         ],
