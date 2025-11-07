@@ -505,6 +505,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1638567024089106165",
+                "createdAt": "2025-11-07T14:00:10.822Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 16385,
+                "name": "Subject: [Braintoss] Laptop tas",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-07T14:00:10.821Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1626729020806661729",
                 "createdAt": "2025-10-22T06:00:10.861Z",
                 "updatedAt": "2025-10-23T07:29:52.740Z",
