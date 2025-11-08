@@ -372,6 +372,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1639352197604968199",
+                "createdAt": "2025-11-08T16:00:10.799Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 8193,
+                "name": "Subject: [Braintoss] Voorbereid boek",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-08T16:00:10.798Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1625530590268753499",
                 "createdAt": "2025-10-20T14:19:06.808Z",
                 "updatedAt": "2025-10-23T07:41:01.254Z",
