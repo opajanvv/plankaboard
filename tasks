@@ -258,6 +258,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1639986376294270735",
+                "createdAt": "2025-11-09T13:00:10.790Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 2049,
+                "name": "Subject: [Braintoss] Jurassic park",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-09T13:00:10.789Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1625501960058701397",
                 "createdAt": "2025-10-20T13:22:13.820Z",
                 "updatedAt": "2025-10-23T07:38:52.449Z",
