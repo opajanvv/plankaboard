@@ -1360,6 +1360,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1641658045874308891",
+                "createdAt": "2025-11-11T20:21:29.333Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 131072,
+                "name": "Rooster De Lichtbron centraal?",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-11T20:21:29.333Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797652857866",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1638593361055057655",
                 "createdAt": "2025-11-07T14:52:30.432Z",
                 "updatedAt": null,
