@@ -429,6 +429,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1642009707956668191",
+                "createdAt": "2025-11-12T08:00:10.720Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 8193,
+                "name": "Subject: [Braintoss] Brp overzicht opvragen",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-12T08:00:10.719Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1625530590268753499",
                 "createdAt": "2025-10-20T14:19:06.808Z",
                 "updatedAt": "2025-10-23T07:41:01.254Z",
