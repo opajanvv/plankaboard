@@ -239,6 +239,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1637797119366530794",
+                "createdAt": "2025-11-06T12:30:31.027Z",
+                "updatedAt": "2025-11-13T12:15:56.949Z",
+                "type": "project",
+                "position": 936,
+                "name": "Setup AI server",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-13T12:15:56.948Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1621666247156434495",
                 "createdAt": "2025-10-15T06:21:21.210Z",
                 "updatedAt": "2025-10-27T07:45:19.521Z",
@@ -999,25 +1018,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1637797119366530794",
-                "createdAt": "2025-11-06T12:30:31.027Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 65536,
-                "name": "Setup AI server",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-11-06T12:30:31.026Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1641629229202278169",
                 "createdAt": "2025-11-11T19:24:14.117Z",
                 "updatedAt": null,
@@ -1563,6 +1563,25 @@
                 "listChangedAt": "2025-11-12T13:36:53.109Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797652857866",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1642862809316329294",
+                "createdAt": "2025-11-13T12:15:08.327Z",
+                "updatedAt": "2025-11-13T12:15:19.510Z",
+                "type": "project",
+                "position": 196608,
+                "name": "Respooler",
+                "description": "<https://www.printables.com/model/407688-bambu-lab-p1-x1-x1c-x1cc-filament-spool-switcher-w>",
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-13T12:15:08.326Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797468308489",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
@@ -2267,6 +2286,25 @@
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
                 "creatorUserId": "1569125757572088833",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1642885427629131608",
+                "createdAt": "2025-11-13T13:00:04.639Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 722752.0849609375,
+                "name": "Setup local Gitlab service",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-13T13:00:04.638Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
+                "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
@@ -4391,6 +4429,48 @@
                 "updatedAt": null,
                 "cardId": "1639140815672444673",
                 "labelId": "1579154066502584289"
+            },
+            {
+                "id": "1642862861602522960",
+                "createdAt": "2025-11-13T12:15:14.561Z",
+                "updatedAt": null,
+                "cardId": "1642862809316329294",
+                "labelId": "1579154066502584289"
+            },
+            {
+                "id": "1642862977130432337",
+                "createdAt": "2025-11-13T12:15:28.332Z",
+                "updatedAt": null,
+                "cardId": "1637811417908250353",
+                "labelId": "1569125798743376913"
+            },
+            {
+                "id": "1642863034282018642",
+                "createdAt": "2025-11-13T12:15:35.145Z",
+                "updatedAt": null,
+                "cardId": "1637797119366530794",
+                "labelId": "1569125798743376913"
+            },
+            {
+                "id": "1642863125348747091",
+                "createdAt": "2025-11-13T12:15:46.002Z",
+                "updatedAt": null,
+                "cardId": "1642177517924124474",
+                "labelId": "1569125798743376913"
+            },
+            {
+                "id": "1642863270782043989",
+                "createdAt": "2025-11-13T12:16:03.339Z",
+                "updatedAt": null,
+                "cardId": "1621666247156434495",
+                "labelId": "1569125798600770576"
+            },
+            {
+                "id": "1642885487255357274",
+                "createdAt": "2025-11-13T13:00:11.748Z",
+                "updatedAt": null,
+                "cardId": "1642885427629131608",
+                "labelId": "1569125798743376913"
             }
         ],
         "taskLists": [
@@ -4456,6 +4536,15 @@
                 "name": "Task List",
                 "showOnFrontOfCard": true,
                 "cardId": "1621847965721167426"
+            },
+            {
+                "id": "1642867771849049942",
+                "createdAt": "2025-11-13T12:24:59.906Z",
+                "updatedAt": null,
+                "position": 65536,
+                "name": "Parts / Color",
+                "showOnFrontOfCard": true,
+                "cardId": "1642862809316329294"
             }
         ],
         "tasks": [
@@ -4547,6 +4636,16 @@
                 "name": "Backup naar Google Drive / Dropbox",
                 "isCompleted": false,
                 "taskListId": "1621848177785177668",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1642867880791902039",
+                "createdAt": "2025-11-13T12:25:12.893Z",
+                "updatedAt": null,
+                "position": 65536,
+                "name": "Donor Spool Holder (black)",
+                "isCompleted": false,
+                "taskListId": "1642867771849049942",
                 "assigneeUserId": null
             },
             {
