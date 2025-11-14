@@ -4648,10 +4648,10 @@
             {
                 "id": "1642867880791902039",
                 "createdAt": "2025-11-13T12:25:12.893Z",
-                "updatedAt": null,
+                "updatedAt": "2025-11-14T12:17:46.328Z",
                 "position": 65536,
                 "name": "Donor Spool Holder (black)",
-                "isCompleted": false,
+                "isCompleted": true,
                 "taskListId": "1642867771849049942",
                 "assigneeUserId": null
             },
@@ -4706,6 +4706,16 @@
                 "assigneeUserId": null
             },
             {
+                "id": "1643588838959875936",
+                "createdAt": "2025-11-14T12:17:37.804Z",
+                "updatedAt": "2025-11-14T12:17:47.093Z",
+                "position": 131072,
+                "name": "Winder Spool (black)",
+                "isCompleted": true,
+                "taskListId": "1642867771849049942",
+                "assigneeUserId": null
+            },
+            {
                 "id": "1576351742285580147",
                 "createdAt": "2025-08-13T17:49:31.278Z",
                 "updatedAt": null,
@@ -4753,6 +4763,16 @@
                 "name": "WIjzig Automatic Backup naar daily/weekly/monthly?",
                 "isCompleted": false,
                 "taskListId": "1621848177785177668",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1643589086826465123",
+                "createdAt": "2025-11-14T12:18:07.353Z",
+                "updatedAt": null,
+                "position": 196608,
+                "name": "Winder and Donor Right Hand Spool Axle Nut",
+                "isCompleted": false,
+                "taskListId": "1642867771849049942",
                 "assigneeUserId": null
             },
             {
@@ -4816,6 +4836,16 @@
                 "assigneeUserId": null
             },
             {
+                "id": "1643589187640756068",
+                "createdAt": "2025-11-14T12:18:19.370Z",
+                "updatedAt": null,
+                "position": 262144,
+                "name": "Donor Spool Holder Axle without Gear",
+                "isCompleted": false,
+                "taskListId": "1642867771849049942",
+                "assigneeUserId": null
+            },
+            {
                 "id": "1621849207520364105",
                 "createdAt": "2025-10-15T12:24:51.786Z",
                 "updatedAt": null,
@@ -4823,6 +4853,66 @@
                 "name": "Maak overzicht plugins",
                 "isCompleted": false,
                 "taskListId": "1621848177785177668",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1643589281903544165",
+                "createdAt": "2025-11-14T12:18:30.608Z",
+                "updatedAt": null,
+                "position": 327680,
+                "name": "all Spooler Centering Discs (50/55/60/65 mm)",
+                "isCompleted": false,
+                "taskListId": "1642867771849049942",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1643589651547555686",
+                "createdAt": "2025-11-14T12:19:14.673Z",
+                "updatedAt": null,
+                "position": 393216,
+                "name": "all Gears",
+                "isCompleted": false,
+                "taskListId": "1642867771849049942",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1643589828488464231",
+                "createdAt": "2025-11-14T12:19:35.766Z",
+                "updatedAt": null,
+                "position": 458752,
+                "name": "all shafts / axis (except the driven one 45 mm, see above)",
+                "isCompleted": false,
+                "taskListId": "1642867771849049942",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1643589941692729192",
+                "createdAt": "2025-11-14T12:19:49.261Z",
+                "updatedAt": null,
+                "position": 524288,
+                "name": "handle or drill adapter parts",
+                "isCompleted": false,
+                "taskListId": "1642867771849049942",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1643590044176353129",
+                "createdAt": "2025-11-14T12:20:01.477Z",
+                "updatedAt": null,
+                "position": 589824,
+                "name": "all washers",
+                "isCompleted": false,
+                "taskListId": "1642867771849049942",
+                "assigneeUserId": null
+            },
+            {
+                "id": "1643590189022447466",
+                "createdAt": "2025-11-14T12:20:18.745Z",
+                "updatedAt": null,
+                "position": 655360,
+                "name": "and all Filament Guide parts",
+                "isCompleted": false,
+                "taskListId": "1642867771849049942",
                 "assigneeUserId": null
             }
         ],
