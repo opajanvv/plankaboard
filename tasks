@@ -2329,6 +2329,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1645144183159129974",
+                "createdAt": "2025-11-16T15:47:49.282Z",
+                "updatedAt": "2025-11-16T15:48:03.997Z",
+                "type": "project",
+                "position": 788288.0849609375,
+                "name": "Install OpenCode & NeovIm plugin",
+                "description": "See this video: <http://www.youtube.com/watch?v=e9j2iEwJru0>",
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-16T15:47:49.281Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797778686987",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1569125830360040797",
                 "createdAt": "2025-08-03T18:32:55.452Z",
                 "updatedAt": "2025-09-24T08:08:28.008Z",
