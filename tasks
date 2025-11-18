@@ -241,11 +241,11 @@
             {
                 "id": "1642895014356846427",
                 "createdAt": "2025-11-13T13:19:07.467Z",
-                "updatedAt": "2025-11-13T13:19:34.228Z",
+                "updatedAt": "2025-11-18T08:13:11.547Z",
                 "type": "project",
                 "position": 1932,
                 "name": "Set Omarchy custom settings according to Typecraft",
-                "description": null,
+                "description": "Give it my own twist.\nWhen running 'after-install', then check if we are on a vm/lxc or on a workstation. Handle accordingly.\n\nMaybe, make an ansible-pull like mechanism to pull the latest dotfiles and such.\n\nThink how to setup ssh.",
                 "dueDate": null,
                 "stopwatch": null,
                 "commentsTotal": 0,
