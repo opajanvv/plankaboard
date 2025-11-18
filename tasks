@@ -1512,25 +1512,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1581068066240857120",
-                "createdAt": "2025-08-20T06:00:00.905Z",
-                "updatedAt": "2025-09-24T08:08:27.932Z",
-                "type": "project",
-                "position": 311296,
-                "name": "Terracotta discs (to keep the Buisman suger dry)",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-20T11:25:56.397Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797938070540",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1569874403313845762",
                 "createdAt": "2025-08-04T19:20:12.301Z",
                 "updatedAt": "2025-09-24T08:08:27.939Z",
@@ -1544,6 +1525,25 @@
                 "listChangedAt": "2025-08-14T07:54:15.169Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
+                "id": "1646342677374961549",
+                "createdAt": "2025-11-18T07:29:00.925Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 327680,
+                "name": "Voor zolder: kabelgoot 2.5m",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-18T07:29:00.925Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797652857866",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
@@ -3968,13 +3968,6 @@
                 "labelId": "1569125798743376913"
             },
             {
-                "id": "1581231849483535405",
-                "createdAt": "2025-08-20T11:25:25.390Z",
-                "updatedAt": null,
-                "cardId": "1581068066240857120",
-                "labelId": "1569125798407832591"
-            },
-            {
                 "id": "1582833189032821855",
                 "createdAt": "2025-08-22T16:26:59.941Z",
                 "updatedAt": null,
@@ -4225,6 +4218,20 @@
                 "updatedAt": null,
                 "cardId": "1645841296826304390",
                 "labelId": "1569125798600770576"
+            },
+            {
+                "id": "1646344171545429903",
+                "createdAt": "2025-11-18T07:31:59.045Z",
+                "updatedAt": null,
+                "cardId": "1645879255160063881",
+                "labelId": "1569125798407832591"
+            },
+            {
+                "id": "1646344256480085904",
+                "createdAt": "2025-11-18T07:32:09.170Z",
+                "updatedAt": null,
+                "cardId": "1646342677374961549",
+                "labelId": "1569125798407832591"
             }
         ],
         "taskLists": [
