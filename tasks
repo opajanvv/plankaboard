@@ -923,25 +923,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1646471334051448726",
-                "createdAt": "2025-11-18T11:44:37.996Z",
-                "updatedAt": "2025-11-18T11:44:44.766Z",
-                "type": "project",
-                "position": 65536,
-                "name": "Commands:",
-                "description": "<https://www.youtube.com/watch?v=VGtxARciwDM>",
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-11-18T11:44:37.996Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797468308489",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1569125818657932512",
                 "createdAt": "2025-08-03T18:32:54.057Z",
                 "updatedAt": "2025-08-03T19:36:29.961Z",
@@ -1474,25 +1455,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1645879255160063881",
-                "createdAt": "2025-11-17T16:08:16.692Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 262144,
-                "name": "Postzegels bestellen",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-11-17T16:08:16.692Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797652857866",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1583304235150214255",
                 "createdAt": "2025-08-23T08:02:53.012Z",
                 "updatedAt": "2025-09-24T08:08:27.928Z",
@@ -1544,25 +1506,6 @@
                 "listChangedAt": "2025-08-14T07:54:15.169Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
-                "id": "1646342677374961549",
-                "createdAt": "2025-11-18T07:29:00.925Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 327680,
-                "name": "Voor zolder: kabelgoot 2.5m",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-11-18T07:29:00.925Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797652857866",
                 "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
@@ -4237,20 +4180,6 @@
                 "updatedAt": null,
                 "cardId": "1645841296826304390",
                 "labelId": "1569125798600770576"
-            },
-            {
-                "id": "1646344171545429903",
-                "createdAt": "2025-11-18T07:31:59.045Z",
-                "updatedAt": null,
-                "cardId": "1645879255160063881",
-                "labelId": "1569125798407832591"
-            },
-            {
-                "id": "1646344256480085904",
-                "createdAt": "2025-11-18T07:32:09.170Z",
-                "updatedAt": null,
-                "cardId": "1646342677374961549",
-                "labelId": "1569125798407832591"
             }
         ],
         "taskLists": [
