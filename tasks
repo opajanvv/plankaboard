@@ -999,6 +999,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1651412759524411312",
+                "createdAt": "2025-11-25T07:22:21.817Z",
+                "updatedAt": "2025-11-25T07:22:29.833Z",
+                "type": "project",
+                "position": 65537,
+                "name": "Voor Omarchy config blog:",
+                "description": "\\~ ❯ sudo grep -E \"TIMELINE\\_LIMIT\\|NUMBER\\_LIMIT\" /etc/snapper/configs/root\nNUMBER\\_LIMIT=\"5\"\nNUMBER\\_LIMIT\\_IMPORTANT=\"5\"\nTIMELINE\\_LIMIT\\_HOURLY=\"10\"\nTIMELINE\\_LIMIT\\_DAILY=\"10\"\nTIMELINE\\_LIMIT\\_WEEKLY=\"0\"\nTIMELINE\\_LIMIT\\_MONTHLY=\"10\"\nTIMELINE\\_LIMIT\\_QUARTERLY=\"0\"\nTIMELINE\\_LIMIT\\_YEARLY=\"10\"\n\n# │ Type   │ Pre # │ Date │ User │ Cleanup │ Description │ Userdata\n\n──┼────────┼───────┼──────┼──────┼─────────┼─────────────┼─────────\n0 │ single │       │      │ root │         │ current     │\n\n\\~ ❯ sudo snapper list\nPlace your finger on the fingerprint reader\n\n# │ Type   │ Pre # │ Date │ User │ Cleanup │ Description │ Userdata\n\n──┼────────┼───────┼──────┼──────┼─────────┼─────────────┼─────────\n0 │ single │       │      │ root │         │ current     │\n\n\\~ ❯",
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-25T07:22:21.817Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1569125818657932512",
                 "createdAt": "2025-08-03T18:32:54.057Z",
                 "updatedAt": "2025-08-03T19:36:29.961Z",
