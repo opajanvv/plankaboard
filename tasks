@@ -866,6 +866,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1652851413287438266",
+                "createdAt": "2025-11-27T07:00:42.710Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 32769,
+                "name": "Subject: [Braintoss] Jdriven meetup",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-11-27T07:00:42.709Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1602479328086459772",
                 "createdAt": "2025-09-18T19:00:22.220Z",
                 "updatedAt": "2025-09-24T08:06:14.455Z",
