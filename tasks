@@ -1417,6 +1417,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1657350400421922804",
+                "createdAt": "2025-12-03T11:59:23.769Z",
+                "updatedAt": "2025-12-03T11:59:29.773Z",
+                "type": "project",
+                "position": 131072,
+                "name": "Meta prompting!",
+                "description": "<https://www.youtube.com/watch?v=8_7Sq6Vu0S4>",
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-12-03T11:59:23.769Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797468308489",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1638593361055057655",
                 "createdAt": "2025-11-07T14:52:30.432Z",
                 "updatedAt": null,
