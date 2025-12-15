@@ -1360,6 +1360,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1665977639665402909",
+                "createdAt": "2025-12-15T09:40:10.831Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 81921,
+                "name": "GrandOrgue testen op biede laptops",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-12-15T09:40:10.830Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1594838980363289923",
                 "createdAt": "2025-09-08T06:00:21.796Z",
                 "updatedAt": "2025-09-24T08:08:27.904Z",
