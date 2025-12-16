@@ -334,6 +334,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1667075019991155747",
+                "createdAt": "2025-12-16T22:00:28.759Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 2049,
+                "name": "Subject: =?us-ascii?Q?[Braintoss]_Kerst_verhaal_ned1_16_dec_na_journa?=  =?us-ascii?Q?l?=",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-12-16T22:00:28.759Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1639140815378843387",
                 "createdAt": "2025-11-08T09:00:12.074Z",
                 "updatedAt": "2025-11-17T14:52:13.427Z",
