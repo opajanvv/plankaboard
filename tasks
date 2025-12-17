@@ -1151,6 +1151,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1667672764238005287",
+                "createdAt": "2025-12-17T17:48:05.427Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 65536,
+                "name": "CoderDojo",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-12-17T17:48:05.426Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797652857866",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1569125818657932512",
                 "createdAt": "2025-08-03T18:32:54.057Z",
                 "updatedAt": "2025-08-03T19:36:29.961Z",
