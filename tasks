@@ -2006,25 +2006,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1569125801335456808",
-                "createdAt": "2025-08-03T18:32:51.993Z",
-                "updatedAt": "2025-09-24T08:08:27.967Z",
-                "type": "project",
-                "position": 491520,
-                "name": "Complete contact page for new blog",
-                "description": "<p></p>",
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-14T09:49:10.796Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797938070540",
-                "creatorUserId": "1569125757572088833",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1569125799867450394",
                 "createdAt": "2025-08-03T18:32:51.817Z",
                 "updatedAt": "2025-09-24T08:08:27.969Z",
@@ -2036,25 +2017,6 @@
                 "stopwatch": null,
                 "commentsTotal": 0,
                 "listChangedAt": "2025-08-14T09:49:14.960Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797938070540",
-                "creatorUserId": "1569125757572088833",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
-                "id": "1569125801872327725",
-                "createdAt": "2025-08-03T18:32:52.057Z",
-                "updatedAt": "2025-09-24T08:08:27.971Z",
-                "type": "project",
-                "position": 524288,
-                "name": "Research Remark24 for self-hosted blog comments",
-                "description": "<p></p>",
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-14T09:49:18.744Z",
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
                 "creatorUserId": "1569125757572088833",
@@ -2177,25 +2139,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1569125801041855525",
-                "createdAt": "2025-08-03T18:32:51.958Z",
-                "updatedAt": "2025-09-24T08:08:27.984Z",
-                "type": "project",
-                "position": 622592,
-                "name": "Migrate old homepage content to new blog's About page",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-14T09:49:09.432Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797938070540",
-                "creatorUserId": "1569125757572088833",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1576022197716125514",
                 "createdAt": "2025-08-13T06:54:46.504Z",
                 "updatedAt": "2025-09-24T08:08:27.986Z",
@@ -2210,25 +2153,6 @@
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
                 "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
-                "id": "1569125802191094832",
-                "createdAt": "2025-08-03T18:32:52.095Z",
-                "updatedAt": "2025-09-24T08:08:27.989Z",
-                "type": "project",
-                "position": 655360,
-                "name": "Consider blog subscription features (RSS/email)",
-                "description": "<p></p>",
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-08-13T19:48:44.969Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797938070540",
-                "creatorUserId": "1569125757572088833",
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
@@ -2514,25 +2438,6 @@
                 "boardId": "1569125797208261637",
                 "listId": "1569125797938070540",
                 "creatorUserId": "1569125757572088833",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
-                "id": "1645841296826304390",
-                "createdAt": "2025-11-17T14:52:51.706Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 853824.0849609375,
-                "name": "Blog: contact page",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2025-11-17T14:52:51.705Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797778686987",
-                "creatorUserId": "1569579385273451995",
                 "prevListId": null,
                 "coverAttachmentId": null,
                 "isSubscribed": false
@@ -4233,27 +4138,6 @@
                 "labelId": "1569125798743376913"
             },
             {
-                "id": "1576395359339415427",
-                "createdAt": "2025-08-13T19:16:10.836Z",
-                "updatedAt": null,
-                "cardId": "1569125801335456808",
-                "labelId": "1576394506570303362"
-            },
-            {
-                "id": "1576410642175231885",
-                "createdAt": "2025-08-13T19:46:32.692Z",
-                "updatedAt": null,
-                "cardId": "1569125801872327725",
-                "labelId": "1576394506570303362"
-            },
-            {
-                "id": "1576411674032736142",
-                "createdAt": "2025-08-13T19:48:35.699Z",
-                "updatedAt": null,
-                "cardId": "1569125802191094832",
-                "labelId": "1576394506570303362"
-            },
-            {
                 "id": "1576413727102601104",
                 "createdAt": "2025-08-13T19:52:40.444Z",
                 "updatedAt": null,
@@ -4287,13 +4171,6 @@
                 "updatedAt": null,
                 "cardId": "1576781212616230825",
                 "labelId": "1569125798743376913"
-            },
-            {
-                "id": "1576831206639536045",
-                "createdAt": "2025-08-14T09:42:07.882Z",
-                "updatedAt": null,
-                "cardId": "1569125801041855525",
-                "labelId": "1576394506570303362"
             },
             {
                 "id": "1579154840636884965",
@@ -4553,13 +4430,6 @@
                 "updatedAt": null,
                 "cardId": "1642895014356846427",
                 "labelId": "1569125798743376913"
-            },
-            {
-                "id": "1645841356955846536",
-                "createdAt": "2025-11-17T14:52:58.876Z",
-                "updatedAt": null,
-                "cardId": "1645841296826304390",
-                "labelId": "1569125798600770576"
             },
             {
                 "id": "1655892955623327725",
