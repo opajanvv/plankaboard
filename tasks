@@ -277,6 +277,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1670547904105808970",
+                "createdAt": "2025-12-21T17:00:28.807Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 513,
+                "name": "Subject: [Braintoss] Piet beertema",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-12-21T17:00:28.807Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1642862809316329294",
                 "createdAt": "2025-11-13T12:15:08.327Z",
                 "updatedAt": "2025-11-25T12:01:46.761Z",
