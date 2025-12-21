@@ -334,6 +334,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1670306312077968454",
+                "createdAt": "2025-12-21T09:00:28.794Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 2049,
+                "name": "Subject: [Braintoss] Blog, reizen vs verplaatsen",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-12-21T09:00:28.793Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1639140815378843387",
                 "createdAt": "2025-11-08T09:00:12.074Z",
                 "updatedAt": "2025-11-17T14:52:13.427Z",
