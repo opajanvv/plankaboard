@@ -1379,6 +1379,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1674999573132608600",
+                "createdAt": "2025-12-27T20:25:09.107Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 65536,
+                "name": "Fix or replace sde disk",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2025-12-27T20:25:09.106Z",
+                "boardId": "1569125797208261637",
+                "listId": "1569125797652857866",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1569125818657932512",
                 "createdAt": "2025-08-03T18:32:54.057Z",
                 "updatedAt": "2025-08-03T19:36:29.961Z",
