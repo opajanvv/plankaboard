@@ -220,6 +220,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1680483370892526694",
+                "createdAt": "2026-01-04T10:00:28.744Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 1.5,
+                "name": "Subject: [Braintoss] Reizen vs verplaatsen",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2026-01-04T10:00:28.744Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1680422973309191268",
                 "createdAt": "2026-01-04T08:00:28.790Z",
                 "updatedAt": null,
