@@ -220,6 +220,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1680422973309191268",
+                "createdAt": "2026-01-04T08:00:28.790Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 2,
+                "name": "Subject: =?us-ascii?Q?[Braintoss]_Blog:_techniek_eraf._Over_naar_NL_b?=  =?us-ascii?Q?log._Rubriek_AI_toevoeg...?=",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2026-01-04T08:00:28.790Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1679818993986176098",
                 "createdAt": "2026-01-03T12:00:28.845Z",
                 "updatedAt": null,
