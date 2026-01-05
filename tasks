@@ -220,6 +220,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1681177948213740650",
+                "createdAt": "2026-01-05T09:00:28.813Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 1.125,
+                "name": "Subject: [Braintoss] Ringen pa verkopen",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2026-01-05T09:00:28.813Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1680785360897967208",
                 "createdAt": "2026-01-04T20:00:28.759Z",
                 "updatedAt": null,
