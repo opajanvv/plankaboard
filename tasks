@@ -1626,25 +1626,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1680785360897967208",
-                "createdAt": "2026-01-04T20:00:28.759Z",
-                "updatedAt": "2026-01-05T20:05:39.369Z",
-                "type": "project",
-                "position": 131072,
-                "name": "Auto: Hybride goedkoper?",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2026-01-05T20:05:39.368Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797652857866",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1638593361055057655",
                 "createdAt": "2025-11-07T14:52:30.432Z",
                 "updatedAt": null,
