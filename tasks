@@ -2291,25 +2291,6 @@
                 "isSubscribed": false
             },
             {
-                "id": "1685035898678281398",
-                "createdAt": "2026-01-10T16:45:32.346Z",
-                "updatedAt": null,
-                "type": "project",
-                "position": 524288,
-                "name": "git commit slach command: - when running git-commit: if you find changes that I forgot to commit earlier, then do not merge them into the current commit. Check with git diff what has been changed and make a separate commit for it.",
-                "description": null,
-                "dueDate": null,
-                "stopwatch": null,
-                "commentsTotal": 0,
-                "listChangedAt": "2026-01-10T16:45:32.345Z",
-                "boardId": "1569125797208261637",
-                "listId": "1569125797652857866",
-                "creatorUserId": "1569579385273451995",
-                "prevListId": null,
-                "coverAttachmentId": null,
-                "isSubscribed": false
-            },
-            {
                 "id": "1633342599077037734",
                 "createdAt": "2025-10-31T09:00:10.828Z",
                 "updatedAt": "2025-11-02T18:13:38.208Z",
