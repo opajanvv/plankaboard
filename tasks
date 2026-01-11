@@ -600,6 +600,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1685828418089780411",
+                "createdAt": "2026-01-11T19:00:08.021Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 4097,
+                "name": "Subject: [Braintoss] Filmpje organist fouten",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2026-01-11T19:00:08.019Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1629001929235367547",
                 "createdAt": "2025-10-25T09:16:02.660Z",
                 "updatedAt": "2025-10-25T09:16:16.357Z",
