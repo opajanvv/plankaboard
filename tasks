@@ -334,6 +334,25 @@
                 "isSubscribed": false
             },
             {
+                "id": "1685858616231331005",
+                "createdAt": "2026-01-11T20:00:07.921Z",
+                "updatedAt": null,
+                "type": "project",
+                "position": 2049,
+                "name": "Subject: [Braintoss] Dinnerwalk",
+                "description": null,
+                "dueDate": null,
+                "stopwatch": null,
+                "commentsTotal": 0,
+                "listChangedAt": "2026-01-11T20:00:07.919Z",
+                "boardId": "1569125797208261637",
+                "listId": "1571110862045840924",
+                "creatorUserId": "1569579385273451995",
+                "prevListId": null,
+                "coverAttachmentId": null,
+                "isSubscribed": false
+            },
+            {
                 "id": "1680483370892526694",
                 "createdAt": "2026-01-04T10:00:28.744Z",
                 "updatedAt": "2026-01-05T20:05:56.461Z",
